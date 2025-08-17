@@ -25,7 +25,7 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「没有的话，这里面有很多，随便拿。」[p][r]
+「没有的话，这里面有很多，随便拿」[p][r]
 「……好呀。[l][r]
 想想的话　我可是有很多东西哦，」[p][r]
 
@@ -40,14 +40,14 @@
 [tb_start_text mode=3 ]
 黄金项链？一尘不染的美丽衣服？还是说……」[p][r]
 「才不是那种东西……[l][r]
-我想想，虽然很老套……我的家人。」[p][r]
+我想想，虽然很老套……我的家人」[p][r]
 「家人？」[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 「还有，朋友……[l][r]
-还有自己，我　也是宝物哦。」[p][r]
+还有自己，我　也是宝物哦」[p][r]
 
 [_tb_end_text]
 
@@ -59,7 +59,7 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-还有……机车，已经给弟弟了。」[p][r]
+还有……机车，已经给弟弟了」[p][r]
 「给了？」[p][r]
 「嗯……因为不需要了，[l][r]
 要是不能跑的话那孩子也很可怜……」[p][r]
@@ -68,15 +68,15 @@
 
 [chara_mod  name="zigoku"  time="600"  cross="true"  storage="chara/9/Zigokunom.png"  ]
 [tb_start_text mode=3 ]
-「竟然会说机器很可爱，你真的是很有感情的女人啊。」[p][r]
-「还有，当然　酥饼也是我的宝贝哦　我最喜欢[l][r]
+「竟然会说机器很可爱，你真的是很有感情的女人啊」[p][r]
+「还有，当然　莎布蕾也是我的宝贝哦　我最喜欢[l][r]
 我世界上最好看的猫」[p][r]
 「辉子……」[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-我紧紧抱住酥饼。[p][r]
+我紧紧抱住莎布蕾。[p][r]
 
 [_tb_end_text]
 
@@ -104,14 +104,14 @@
 [tb_start_text mode=3 ]
 「为什么会有这种东西？」[p][r]
 「因为从人类的世界来看，这里是世界的尽头啊。[l][r]
-各种各样的东西都会掉进猫国。」[p][r]
+各种各样的东西都会掉进猫国」[p][r]
 「所以，这个房间里有很多奇怪的东西」[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 「先不管这个，你懂吗？[l][r]
-谁也不知道如何弹奏拿到的这个。如果你能演奏音乐的话，我很想听听看。」[p][r]
+谁也不知道如何弹奏拿到的这个。如果你能演奏音乐的话，我很想听听看」[p][r]
 「……不懂啊……」[p][r]
 「唔？」[p][r]
 
@@ -306,7 +306,7 @@
 [tb_start_text mode=3 ]
 「萨布里！！姐姐！！」[p][r]
 多亏灰的活跃，总算到达了。[p][r]
-「阿达彦……妮娅……」[p][r]
+「达彦……妮娅……」[p][r]
 姐姐在哭。[p][r]
 
 [_tb_end_text]
@@ -315,7 +315,7 @@
 「你，你这家伙……对姐姐做什么？」[p][r]
 我明白自己愤怒到血气上涌。[l][r]
 我瞪着地狱。[p][r]
-「哎呀。」[p][r]
+「哎呀」[p][r]
 
 [_tb_end_text]
 
@@ -331,21 +331,21 @@
 [chara_hide  name="kiko"  time="1000"  wait="false"  pos_mode="false"  ]
 [chara_show  name="haiiro"  time="1000"  wait="true"  storage="chara/10/haiiro_nom.png"  width="1280"  height="720"  top="10"  ]
 [tb_start_text mode=3 ]
-「听说你擅自把人带来了。」[p][r]
+「听说你擅自把人带来了」[p][r]
 「灰阁下才是，你不是带了两个人类吗？[l][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-而且我只是遵从神猫大人的吩咐，把这个小不点——萨布雷带过来而已。」[p][r]
-「神猫大人吗……那种事情已经无所谓了。」[p][r]
+而且我只是遵从神猫大人的吩咐，把这个小不点——萨布雷带过来而已」[p][r]
+「神猫大人吗……那种事情已经无所谓了」[p][r]
 
 [_tb_end_text]
 
 [chara_mod  name="zigoku"  time="600"  cross="true"  storage="chara/9/Zigokumazime.png"  ]
 [tb_start_text mode=3 ]
 「你说什么？」[p][r]
-「吾找到了比被赋予的使命更重要的事物。」[p][r]
+「吾找到了比被赋予的使命更重要的事物」[p][r]
 
 [_tb_end_text]
 
@@ -353,7 +353,7 @@
 [tb_start_text mode=3 ]
 「哦？」[p][r]
 他虽然耍帅地这么说，但重要的事物是指布丁吧……[p][r]
-「而且……吾从以前就想跟你分出胜负。」[p][r]
+「而且……吾从以前就想跟你分出胜负」[p][r]
 「胜负？到目前为止，吾应该是以10胜0败领先吧？」[p][r]
 
 [_tb_end_text]
@@ -408,14 +408,14 @@
 [chara_show  name="kiko"  time="1000"  wait="true"  storage="chara/2/kiko_odo.png"  width="1280"  height="720"  top="0"  ]
 [chara_show  name="sable"  time="1000"  wait="true"  storage="chara/3/Sable_odo.png"  width="1280"  height="720"  top="0"  ]
 [tb_start_text mode=3 ]
-「嗯，没事……阿达和妮娅来了啊……谢谢你们。」[p][r]
+「嗯，没事……阿达和妮娅来了啊……谢谢你们」[p][r]
 
 [_tb_end_text]
 
 [chara_show  name="niya"  time="1000"  wait="true"  storage="chara/1/Niya_nom.png"  width="1280"  height="720"  top="0"  ]
 [tb_start_text mode=3 ]
-「奇依姐……我好担心你……」[p][r]
-「妮娅……你很努力了呢。」[p][r]
+「辉姐姐……我好担心你……」[p][r]
+「妮娅……你很努力了呢」[p][r]
 姐姐摸了摸妮娅的头。[p][r]
 
 [_tb_end_text]
@@ -425,7 +425,7 @@
 「呜哇哇哇～」[p][r]
 妮娅像是溃堤般大哭起来。[p][r]
 「好了，我们快走吧。[l][r]
-宅邸后面好像有回家的井。」[p][r]
+宅邸后面好像有回家的井」[p][r]
 
 [_tb_end_text]
 
@@ -434,17 +434,17 @@
 「是吗……[l][r]
 阿达，我……」[p][r]
 「姐姐！没时间发呆了，[l][r]
-一旦天亮，就再也回不到人类的世界了。」[p][r]
+一旦天亮，就再也回不到人类的世界了」[p][r]
 
 [_tb_end_text]
 
 [chara_mod  name="kiko"  time="600"  cross="true"  storage="chara/2/kiko_odo.png"  ]
 [tb_start_text mode=3 ]
 「……是吗。[l][r]
-说的也是，必须走了。非走不可了。」[p][r]
-「嗯。」[p][r]
+说的也是，必须走了。非走不可了」[p][r]
+「嗯」[p][r]
 我们留下战斗中的两只狗，赶往宅邸。[l][r]
-・・・。[p][r]
+………。[p][r]
 
 [_tb_end_text]
 
@@ -457,30 +457,30 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="70"  time="1000"  loop="true"  storage="madeinsummer2.mp3"  ]
 [tb_start_text mode=3 ]
-「阿达。」[p][r]
+「阿达」[p][r]
 「怎么了，姐姐？」[p][r]
 「萨布雷，要怎么办？」[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「・・・我不会把酥饼留下来，」[l][r]
-「我不会把酥饼留下来」[p][r]
-阿达彦「・・・」[p][r]
+「………我不会把莎布蕾留下来，」[l][r]
+「我不会把莎布蕾留下来」[p][r]
+达彦「………」[p][r]
 我明白。[l][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 我大概不能带它一起去。[l][r]
-我必须和酥饼分别才能前进。[l][r]
+我必须和莎布蕾分别才能前进。[l][r]
 「但是，我不能把它留下来」[p][r]
-阿达彦「我知道，可是」[p][r]
+达彦「我知道，可是」[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-阿达彦「酥饼」[p][r]
+达彦「莎布蕾」[p][r]
 
 [_tb_end_text]
 
@@ -494,22 +494,22 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-神猫「小姐。」[p][r]
+神猫「小姐」[p][r]
 「神猫，大人」[p][r]
 
 [_tb_end_text]
 
 [chara_mod  name="sable"  time="600"  cross="true"  storage="chara/3/Sable_kanashimi.png"  ]
 [tb_start_text mode=3 ]
-酥饼低声呼唤着。[p][r]
+莎布蕾低声呼唤着。[p][r]
 神猫。[l][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 地狱和灰多次提到这个名字。[l][r]
-「阿达彦、妮娅、辉子，地狱擅自行动，[p][r]
-给你添了麻烦。」[p][r]
+「达彦、妮娅、辉子，地狱擅自行动，[p][r]
+给你添了麻烦」[p][r]
 她没有报上名字，却理所当然地知道我们的名字。[p][r]
 
 [_tb_end_text]
@@ -528,7 +528,7 @@
 [chara_mod  name="neko"  time="600"  cross="true"  storage="chara/8/shinbyou_mazime.png"  ]
 [tb_start_text mode=3 ]
 「天快亮了，[l][r]
-井就在前面。只要沿着来时的路回去就行了。」[p][r]
+井就在前面。只要沿着来时的路回去就行了」[p][r]
 
 [_tb_end_text]
 
@@ -542,7 +542,7 @@
 
 [tb_start_text mode=3 ]
 「现世并非像猫国一样暧昧的地方。[l][r]
-已经结束生命的赛布拉无法继续留在这里。」[p][r]
+已经结束生命的赛布拉无法继续留在这里」[p][r]
 「就、就算这样！只要再一下下……」[p][r]
 「应该是相处了一段时间。[l][r]
 
@@ -551,14 +551,14 @@
 [tb_start_text mode=3 ]
 只是再一下下，再短暂的一段时间，对吧？」[p][r]
 「这……」[p][r]
-「达彦。」[p][r]
-「赛布拉。」[p][r]
+「达彦」[p][r]
+「赛布拉」[p][r]
 
 [_tb_end_text]
 
 [chara_mod  name="sable"  time="600"  cross="true"  storage="chara/3/Sable_nom.png"  ]
 [tb_start_text mode=3 ]
-「赛布拉……已经满足了。」[p][r]
+「赛布拉……已经满足了」[p][r]
 「别这样……我、姐姐、妮娅和你，[l][r]
 一直都是三个人加一只猫对吧？一直……」[p][r]
 
@@ -579,20 +579,20 @@
 
 [tb_start_text mode=3 ]
 只是还想感受一下大家的温暖……[l][r]
-所以已经满足了。」[p][r]
+所以已经满足了」[p][r]
 赛布拉这么说完，看着神猫。[p][r]
 
 [_tb_end_text]
 
 [chara_mod  name="neko"  time="600"  cross="true"  storage="chara/8/shinbyou.png"  ]
 [tb_start_text mode=3 ]
-「真是个好孩子呢。」[p][r]
+「真是个好孩子呢」[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「酥培  是因为幸福才会死掉……」[p][r]
-・・・。[p][r]
+「莎布蕾  是因为幸福才会死掉……」[p][r]
+………。[p][r]
 
 [_tb_end_text]
 
@@ -660,7 +660,7 @@
 [quake  time="300"  count="3"  hmax="10"  wait="true"  ]
 [playse  volume="50"  time="1000"  buf="0"  storage="basya.mp3"  ]
 [tb_start_text mode=3 ]
-「酥饼！」[p][r]
+「莎布蕾！」[p][r]
 
 [_tb_end_text]
 
@@ -678,7 +678,7 @@
 [chara_mod  name="sable"  time="600"  cross="true"  storage="chara/3/Sable_gao.png"  ]
 [tb_start_text mode=3 ]
 「阿达！　用热水浇地狱！」[p][r]
-酥饼如此说道。[l][r]
+莎布蕾如此说道。[l][r]
 
 [_tb_end_text]
 

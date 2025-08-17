@@ -33,28 +33,28 @@
 [tb_start_text mode=3 ]
 「达彦，吃饭了——」[p][r]
 「我可没说要帮我添饭啊。妮娅呢？」[p][r]
-经常待在妮娅家的酥饼出来迎接我。[p][r]
+经常待在妮娅家的莎布蕾出来迎接我。[p][r]
 「睡着了——」[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「这样啊。」[p][r]
-「达彦。」[p][r]
+「这样啊」[p][r]
+「达彦」[p][r]
 「嗯？」[p][r]
 
 [_tb_end_text]
 
 [chara_mod  name="sable"  time="600"  cross="true"  storage="chara/3/Sable_gao.png"  ]
 [tb_start_text mode=3 ]
-「你坐在那。」[p][r]
+「你坐在那」[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 「哎，怎么了？」[p][r]
-「坐下。」[p][r]
-酥饼露出了不容分说的表情。[p][r]
+「坐下」[p][r]
+莎布蕾露出了不容分说的表情。[p][r]
 「真嚣张……」[p][r]
 
 [_tb_end_text]
@@ -67,7 +67,7 @@
 
 [bg  time="1000"  method="crossfade"  storage="str/Sabledaki.png"  ]
 [tb_start_text mode=3 ]
-然后，酥饼一言不发，从我的膝盖上爬起身，蜷成一团。[p][r]
+然后，莎布蕾一言不发，从我的膝盖上爬起身，蜷成一团。[p][r]
 「干嘛啊……」[p][r]
 外面蝉声唧唧。[p][r]
 
@@ -75,16 +75,16 @@
 
 [tb_start_text mode=3 ]
 「嗯……」[p][r]
-酥饼眯起眼睛。[p][r]
+莎布蕾眯起眼睛。[p][r]
 「喂，要摸到什么时候？」[p][r]
-「达彦。」[p][r]
+「达彦」[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 「嗯？」[p][r]
 「……」[p][r]
-酥饼用脸蹭我的肚子。[p][r]
+莎布蕾用脸蹭我的肚子。[p][r]
 「好了，你到底想干嘛？」[p][r]
 
 [_tb_end_text]
@@ -92,7 +92,7 @@
 [tb_start_text mode=3 ]
 「达彦好温暖，[l][r]
 像太阳公公……」[p][r]
-酥饼的声音越来越小。[l][r]
+莎布蕾的声音越来越小。[l][r]
 
 [_tb_end_text]
 
@@ -112,26 +112,26 @@
 [tb_start_text mode=3 ]
 「达彦，你在做什么？」[p][r]
 姐姐走出房间，对我抛出这个疑问。[p][r]
-「不是我，是这家伙。」[p][r]
+「不是我，是这家伙」[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-我用手指着趴在地上的酥饼，它正发出平稳的鼻息。[p][r]
+我用手指着趴在地上的莎布蕾，它正发出平稳的鼻息。[p][r]
 
 [_tb_end_text]
 
 [chara_hide  name="kiko"  time="1000"  wait="true"  pos_mode="true"  ]
 [chara_show  name="kiko"  time="1000"  wait="true"  storage="chara/2/kiko_w.png"  width="1920"  height="1080"  top="20"  ]
 [tb_start_text mode=3 ]
-「这样真好。」[p][r]
+「这样真好」[p][r]
 姐姐走过来坐在我旁边。[p][r]
 「怎么连姐姐都这样？」[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「又没关系。」[p][r]
+「又没关系」[p][r]
 姐姐用温暖——[l][r]
 却带着一丝寂寥的声音说道。[p][r]
 
@@ -145,13 +145,13 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=3 ]
 「锵锵！」[p][r]
-「干嘛啦。」[p][r]
+「干嘛啦」[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 姐姐得意地拿着浴衣。[p][r]
-「给酥饼的！」[p][r]
+「给莎布蕾的！」[p][r]
 
 [_tb_end_text]
 
@@ -163,16 +163,16 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「我修好了以前妮娅穿过的那件。」[p][r]
+「我修好了以前妮娅穿过的那件」[p][r]
 「姐姐做的？」[p][r]
-「当然是妈妈做的啊。」[p][r]
-「嗯，也是。」[p][r]
+「当然是妈妈做的啊」[p][r]
+「嗯，也是」[p][r]
 
 [_tb_end_text]
 
 [chara_mod  name="kiko"  time="600"  cross="true"  storage="chara/2/kiko_nikoniko.png"  ]
 [tb_start_text mode=3 ]
-「毕竟我的神之手是开摩托车和弹吉他专用的。」[p][r]
+「毕竟我的神之手是开摩托车和弹吉他专用的」[p][r]
 其他方面非常笨拙。[p][r]
 「这么说来，之前乐团成员来家里，你还要表演吗？」[p][r]
 姐姐每年都会在祭典的特别舞台上表演。[p][r]
@@ -181,10 +181,10 @@
 
 [chara_mod  name="kiko"  time="600"  cross="true"  storage="chara/2/kiko_akire.png"  ]
 [tb_start_text mode=3 ]
-「……嗯，有心情的话。」[p][r]
-「来，酥饼，浴衣哦。」[p][r]
-「酥饼？」[p][r]
-「不是鱼。」[p][r]
+「……嗯，有心情的话」[p][r]
+「来，莎布蕾，浴衣哦」[p][r]
+「莎布蕾？」[p][r]
+「不是鱼」[p][r]
 
 [_tb_end_text]
 
@@ -199,13 +199,13 @@
 妮娅以前穿的是恐龙图案的浴衣。[l][r]
 尺寸刚刚好。不愧是妈妈。[p][r]
 「呜～」[p][r]
-被迫穿上浴衣的酥饼看起来很不情愿。毕竟是猫嘛。[p][r]
+被迫穿上浴衣的莎布蕾看起来很不情愿。毕竟是猫嘛。[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「那我还得帮忙准备祭典。」[p][r]
-「啊，这样啊。我会带东西去慰劳你的。」[p][r]
+「那我还得帮忙准备祭典」[p][r]
+「啊，这样啊。我会带东西去慰劳你的」[p][r]
 「好——」[p][r]
 
 [_tb_end_text]
@@ -217,7 +217,7 @@
 [chara_show  name="jogasima"  time="1000"  wait="true"  storage="chara/6/Jogssima_nom.png"  width="1280"  height="720"  top="20"  ]
 [tb_start_text mode=3 ]
 我帮忙准备祭典到天色渐渐暗下来。[p][r]
-「差不多可以结束了。」[p][r]
+「差不多可以结束了」[p][r]
 
 [_tb_end_text]
 
@@ -236,7 +236,7 @@
 
 [tb_start_text mode=3 ]
 我想象着自己房间里的冷气有多凉。[p][r]
-「……回家吧。」[p][r]
+「……回家吧」[p][r]
 就在我这样自言自语的时候。[p][r]
 
 [_tb_end_text]
@@ -255,7 +255,7 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「赶快把她带回来，一起喝个一杯喵。」[p][r]
+「赶快把她带回来，一起喝个一杯喵」[p][r]
 说话方式简直像动画或漫画的角色。[l][r]
 我忍不住回过头去。[l][r]
 在那里——[l][r]
@@ -280,7 +280,7 @@
 [tb_start_text mode=3 ]
 「咦？」[p][r]
 我们面面相觑。[p][r]
-「这家伙在看我们喵。」[p][r]
+「这家伙在看我们喵」[p][r]
 「难道他看得见我们喵？」[p][r]
 
 [_tb_end_text]
@@ -294,7 +294,7 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「你灵魂的状态，是被拉到这边了喵。」[p][r]
+「你灵魂的状态，是被拉到这边了喵」[p][r]
 「他知道新来的在哪里喵？」[p][r]
 「……新来的？」[p][r]
 「来了吧喵！跟我们一样像人类的猫！」[p][r]
@@ -311,7 +311,7 @@
 
 [tb_start_text mode=3 ]
 「等等喵！」[p][r]
-是来把酥饼带回去的。[l][r]
+是来把莎布蕾带回去的。[l][r]
 ……[l][r]
 带去猫的天堂。[p][r]
 

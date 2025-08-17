@@ -31,9 +31,9 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「在哦。」[p][r]
+「在哦」[p][r]
 我指向客厅。[p][r]
-「打扰啦。」[p][r]
+「打扰啦」[p][r]
 「请便请便」[p][r]
 
 [_tb_end_text]
@@ -148,14 +148,14 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「不是，骗子。」[p][r]
+「不是，骗子」[p][r]
 妮娅说完之后就跑开了。[p][r]
 
 [_tb_end_text]
 
 [chara_hide  name="niya"  time="1000"  wait="true"  pos_mode="true"  ]
 [tb_start_text mode=3 ]
-「啊，等等。」[p][r]
+「啊，等等」[p][r]
 明明才来没多久，却好像比我还熟悉这个地方。[l][r]
 
 [_tb_end_text]
@@ -175,7 +175,7 @@
 [playbgm  volume="70"  time="1000"  loop="true"  storage="madeinsummer1.mp3"  ]
 [chara_show  name="niya"  time="1000"  wait="true"  storage="chara/1/Niya_nom.png"  width="1280"  height="720"  top="0"  ]
 [tb_start_text mode=3 ]
-「……阿达。」[p][r]
+「……阿达」[p][r]
 
 [_tb_end_text]
 
@@ -183,13 +183,13 @@
 「嗯？」[p][r]
 「为什么你会在我家睡觉？」[p][r]
 好像是在妮娅的家里，我在客厅睡着了。[p][r]
-「因为城岛同学他们有来，我想说待在这里会妨碍到你们。」[p][r]
+「因为城岛同学他们有来，我想说待在这里会妨碍到你们」[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 「原来如此……」[p][r]
-「话说回来，夏日祭典也快到了呢。」[p][r]
+「话说回来，夏日祭典也快到了呢」[p][r]
 「嗯……」[p][r]
 「今年要参加吗？」[p][r]
 
@@ -197,17 +197,17 @@
 
 [chara_mod  name="niya"  time="600"  cross="true"  storage="chara/1/Niya_utsumuki.png"  ]
 [tb_start_text mode=3 ]
-「不去。」[p][r]
-「这样啊……我姐姐说要一起穿浴衣。」[p][r]
+「不去」[p][r]
+「这样啊……我姐姐说要一起穿浴衣」[p][r]
 「……那阿达去穿？」[p][r]
-「不，我……大概要帮忙摆摊。」[p][r]
+「不，我……大概要帮忙摆摊」[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 要换上便于行动的衣服才行。[p][r]
 「炒面？」[p][r]
-「大概是吧。」[p][r]
+「大概是吧」[p][r]
 每年都是这样。[p][r]
 
 [_tb_end_text]
@@ -215,7 +215,7 @@
 [tb_start_text mode=3 ]
 「这样啊……」[p][r]
 感觉已经好久没像这样跟妮娅说话了。[p][r]
-「刚才啊……我梦见了以前的事。」[p][r]
+「刚才啊……我梦见了以前的事」[p][r]
 
 [_tb_end_text]
 
@@ -226,15 +226,15 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「是刚认识的时候，妮娅揍了我吧。」[p][r]
+「是刚认识的时候，妮娅揍了我吧」[p][r]
 「有这种事？」[p][r]
-「被揍了六次。」[p][r]
+「被揍了六次」[p][r]
 「为什么你会记得这种事？」[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「嗯……要问为什么，我也不知道。」[p][r]
+「嗯……要问为什么，我也不知道」[p][r]
 无关紧要的对话。[p][r]
 
 [_tb_end_text]
@@ -242,7 +242,7 @@
 [chara_mod  name="niya"  time="600"  cross="true"  storage="chara/1/Niya_moji.png"  ]
 [tb_start_text mode=3 ]
 「你有被虐倾向？」[p][r]
-「才没有。」[p][r]
+「才没有」[p][r]
 
 [_tb_end_text]
 

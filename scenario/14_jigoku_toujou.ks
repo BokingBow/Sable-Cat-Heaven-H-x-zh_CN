@@ -26,7 +26,7 @@
 [playbgm  volume="70"  time="1000"  loop="true"  storage="jigokuosimai.mp3"  ]
 [tb_start_text mode=3 ]
 「我是……地狱。[l][r]
-猫地狱。」[p][r]
+猫地狱」[p][r]
 
 [_tb_end_text]
 
@@ -47,7 +47,7 @@
 
 [chara_mod  name="zigoku"  time="600"  cross="true"  storage="chara/9/Zigokuw.png"  ]
 [tb_start_text mode=3 ]
-「来，快把那家伙交给我。」[p][r]
+「来，快把那家伙交给我」[p][r]
 
 [_tb_end_text]
 
@@ -55,7 +55,7 @@
 [chara_show  name="sable"  time="1000"  wait="true"  storage="chara/3/Sable_odo.png"  width="1280"  height="720"  top="0"  ]
 [tb_start_text mode=3 ]
 「不、不、不要！」[p][r]
-妮娅挡在蹲在房间角落的酥饼前面。[p][r]
+妮娅挡在蹲在房间角落的莎布蕾前面。[p][r]
 
 [_tb_end_text]
 
@@ -107,7 +107,7 @@
 
 [chara_mod  name="zigoku"  time="600"  cross="true"  storage="chara/9/Zigokuw.png"  ]
 [tb_start_text mode=3 ]
-「哼哈哈……真是可喜可贺的小子。」[p][r]
+「哼哈哈……真是可喜可贺的小子」[p][r]
 「什、什么……」[p][r]
 
 [_tb_end_text]
@@ -116,7 +116,7 @@
 「你们自以为在保护的那个东西，不正是不讲理的象征吗？」[p][r]
 他指着奶油面包。[p][r]
 「不讲理……」[p][r]
-「死掉的猫用人的身体再次出现……哼哼，不合乎道理。」[p][r]
+「死掉的猫用人的身体再次出现……哼哼，不合乎道理」[p][r]
 
 [_tb_end_text]
 
@@ -129,7 +129,7 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-果然酥饼死了吗？[l][r]
+果然莎布蕾死了吗？[l][r]
 我原本以为早已理解了[p][r]
 「那……那你才是……怎么回事……[l][r]
 穿着时代错误的服装　拿着刀……」[p][r]
@@ -153,14 +153,14 @@
 [chara_mod  name="zigoku"  time="600"  cross="true"  storage="chara/9/Zigokuw.png"  ]
 [tb_start_text mode=3 ]
 「哈哈哈！别那么害怕。[l][r]
-这是有道理的。这也是神猫大人的使者。」[p][r]
+这是有道理的。这也是神猫大人的使者」[p][r]
 「神猫大人……？」[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「你们没必要知道。」[p][r]
-她说完就转过身，手伸向酥饼。[p][r]
+「你们没必要知道」[p][r]
+她说完就转过身，手伸向莎布蕾。[p][r]
 「等……」[p][r]
 
 [_tb_end_text]
@@ -215,7 +215,7 @@
 [chara_mod  name="zigoku"  time="600"  cross="true"  storage="chara/9/Zigokuw.png"  ]
 [playbgm  volume="70"  time="1000"  loop="true"  storage="stugai_sic_py16OKE.mp3"  ]
 [tb_start_text mode=3 ]
-「呼呼……呵哈哈。」[p][r]
+「呼呼……呵哈哈」[p][r]
 地狱大笑了起来。[p][r]
 「怎么了？这个人是演员吗？」[p][r]
 姐姐依旧显得很悠哉。[p][r]
@@ -226,7 +226,7 @@
 「没想到还有这样的因缘际会……」[p][r]
 地狱边说边迅速动了起来。[l][r]
 正确地说，我是之后才意识到他动了。[l][r]
-接着，他用两手分别抱起酥饼和姐姐。[p][r]
+接着，他用两手分别抱起莎布蕾和姐姐。[p][r]
 
 [_tb_end_text]
 

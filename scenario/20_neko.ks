@@ -15,7 +15,7 @@
 [chara_show  name="zigoku"  time="1000"  wait="true"  storage="chara/9/zigokuneko.png"  width="1024"  height="576"  top="100"  ]
 [tb_start_text mode=3 ]
 等烟雾散去后，压在我身上的地狱已经不见了　取而代之的是一只白猫。[l][r]
-而在姐姐面前的，不是像人那样的小西，而是熟悉的那只猫狗乐园的酥饼。[l][r]
+而在姐姐面前的，不是像人那样的小西，而是熟悉的那只猫狗乐园的莎布蕾。[l][r]
 ……。[p][r]
 
 [_tb_end_text]
@@ -35,7 +35,7 @@
 [playbgm  volume="70"  time="1000"  loop="true"  storage="stugai_sic_pt12.mp3"  ]
 [bg  time="1000"  method="crossfade"  storage="str/Kikozigoku1.png"  ]
 [tb_start_text mode=3 ]
-「地狱。」[p][r]
+「地狱」[p][r]
 姐姐来到我的身边，抱起了地狱。[p][r]
 「对不起……我其实……可以在这里和你一直在一起的……」[p][r]
 
@@ -69,14 +69,14 @@
 「那肯定不是好事也不是坏事吧……[l][r]
 就这样持续到最后的最后……只是存在于此。[l][r]
 没有任何理由，只是待在这里。[l][r]
-肯定只有这样……了吧。」[p][r]
+肯定只有这样……了吧」[p][r]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="str/Kikozigoku2.png"  ]
 [tb_start_text mode=3 ]
 接着，她紧紧抱住它。[p][r]
-「谢谢……我也喜欢上你了。」[p][r]
+「谢谢……我也喜欢上你了」[p][r]
 「喵……」[p][r]
 地狱舔着姐姐的脸。[p][r]
 
@@ -92,15 +92,15 @@
 [chara_show  name="sable"  time="1000"  wait="true"  storage="chara/3/Sableneko.png"  width="1024"  height="576"  top="100"  ]
 [tb_start_text mode=3 ]
 「喵～」[p][r]
-酥饼踩着小小的步伐跑向我。[p][r]
+莎布蕾踩着小小的步伐跑向我。[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「酥饼……！」[p][r]
+「莎布蕾……！」[p][r]
 我冲动地抱住它。[p][r]
 「咕～」[p][r]
-酥饼发出像要被压扁的声音。[l][r]
+莎布蕾发出像要被压扁的声音。[l][r]
 
 [_tb_end_text]
 
@@ -173,15 +173,15 @@
 [tb_start_text mode=3 ]
 「咯咯……地狱……真是可笑啊……」[p][r]
 遍体鳞伤的灰从后面走过来。[p][r]
-「灰……谢谢你。」[p][r]
-「没什么，要谢的话，向裘儿道谢就行了。」[p][r]
+「灰……谢谢你」[p][r]
+「没什么，要谢的话，向裘儿道谢就行了」[p][r]
 
 [_tb_end_text]
 
 [chara_hide  name="zigoku"  time="300"  wait="true"  pos_mode="true"  ]
 [chara_show  name="neko"  time="1000"  wait="true"  storage="chara/8/shinbyou.png"  width="1280"  height="720"  top="0"  ]
 [tb_start_text mode=3 ]
-「灰，是你救了他们吧。」[p][r]
+「灰，是你救了他们吧」[p][r]
 
 [_tb_end_text]
 
@@ -194,7 +194,7 @@
 
 [chara_mod  name="neko"  time="600"  cross="true"  storage="chara/8/shinbvouwin.png"  ]
 [tb_start_text mode=3 ]
-「我觉得你平常正直老实，偶尔放松一下也没关系。」[p][r]
+「我觉得你平常正直老实，偶尔放松一下也没关系」[p][r]
 
 [_tb_end_text]
 
@@ -208,7 +208,7 @@
 [chara_show  name="zigoku"  time="1000"  wait="true"  storage="chara/9/zigokuneko.png"  width="1024"  height="576"  top="100"  ]
 [tb_start_text mode=3 ]
 灰的视线回到变成猫的地狱身上。[p][r]
-「地狱……没想到我们会以这种形式结束。」[p][r]
+「地狱……没想到我们会以这种形式结束」[p][r]
 
 [_tb_end_text]
 
@@ -228,7 +228,7 @@
 [chara_hide  name="zigoku"  time="300"  wait="true"  pos_mode="true"  ]
 [tb_start_text mode=3 ]
 「达彦、妮娅。[l][r]
-我也很开心哦。」[p][r]
+我也很开心哦」[p][r]
 
 [_tb_end_text]
 
@@ -242,8 +242,8 @@
 [tb_start_text mode=3 ]
 「呵呵……[l][r]
 虽然可能已经暴露了……[l][r]
-其实我也是，地狱也是，一直以来都拒绝泡猫猫温泉。」[p][r]
-「果然如此啊。」[p][r]
+其实我也是，地狱也是，一直以来都拒绝泡猫猫温泉」[p][r]
+「果然如此啊」[p][r]
 「因为……到最后……[l][r]
 
 [_tb_end_text]
@@ -266,7 +266,7 @@
 [chara_hide  name="haiiro"  time="500"  wait="true"  pos_mode="true"  ]
 [chara_show  name="neko"  time="1000"  wait="true"  storage="chara/8/shinbyou.png"  width="1280"  height="720"  top="0"  ]
 [tb_start_text mode=3 ]
-「来，黎明近了。」[p][r]
+「来，黎明近了」[p][r]
 神猫这么说。[p][r]
 「那么……」[p][r]
 
@@ -288,7 +288,7 @@
 
 [chara_mod  name="sable"  time="600"  cross="true"  storage="chara/3/Sableneko_w.png"  ]
 [tb_start_text mode=3 ]
-「喵——嗯。」[p][r]
+「喵——嗯」[p][r]
 
 [_tb_end_text]
 
@@ -313,7 +313,7 @@
 [tb_start_text mode=3 ]
 牵着……[l][r]
 我再次回头。[p][r]
-「喵————————————嗯。」[p][r]
+「喵————————————嗯」[p][r]
 柔和悠长的叫声。[p][r]
 
 [_tb_end_text]
@@ -326,14 +326,14 @@
 
 [chara_mod  name="kiko"  time="600"  cross="true"  storage="chara/2/kiko_naki.png"  ]
 [tb_start_text mode=3 ]
-「你别像个小孩子一样哭啦，达彦。」[p][r]
-「奇依姐还不是在哭……」[p][r]
+「你别像个小孩子一样哭啦，达彦」[p][r]
+「辉姐姐还不是在哭……」[p][r]
 「因为……很寂寞嘛……」[l][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-其实，我好想和你永远在一起。」[p][r]
+其实，我好想和你永远在一起」[p][r]
 姐姐也道出了孩童般的寂寞。[l][r]
 即使无法保证，即使再也见不到面。[l][r]
 离别还是会到来。[p][r]
@@ -400,8 +400,8 @@
 [wait  time="7000"  ]
 [free_layermode  time="2000"  wait="true"  ]
 [tb_start_text mode=3 ]
-「酥饼……」[p][r]
-酥饼怎么样了？[l][r]
+「莎布蕾……」[p][r]
+莎布蕾怎么样了？[l][r]
 
 [_tb_end_text]
 
@@ -410,7 +410,7 @@
 ……[p][r]
 我可能再也见不到它了。[l][r]
 虽然不知道理由，但我有一种悲伤的确信。[p][r]
-「……酥饼……酥饼，酥饼，酥饼。」[p][r]
+「……莎布蕾……莎布蕾，莎布蕾，莎布蕾」[p][r]
 
 [_tb_end_text]
 

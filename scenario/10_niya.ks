@@ -8,12 +8,12 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=3 ]
 虽然雪奶奶过世了，但日子还是像什么都没发生一样地度过。[l][r]
-回想起来，酥饼消失的那一天或许也是如此。[l][r]
+回想起来，莎布蕾消失的那一天或许也是如此。[l][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-……虽然酥饼后来变回了人类。[l][r]
+……虽然莎布蕾后来变回了人类。[l][r]
 暑假也快过了一半。[p][r]
 妮娅虽然变成了孤零零一个人，但并没有被母亲带走。[l][r]
 我不太清楚详细情况。[l][r]
@@ -50,15 +50,15 @@
 [chara_show  name="sable"  time="1000"  wait="true"  storage="chara/3/Sable_nom.png"  width="1280"  height="720"  top="0"  ]
 [tb_start_text mode=3 ]
 「隆平！」[p][r]
-「哟，酥饼」[p][r]
-不知道从什么时候开始，酥饼会说一些简单的词汇了。[p][r]
+「哟，莎布蕾」[p][r]
+不知道从什么时候开始，莎布蕾会说一些简单的词汇了。[p][r]
 
 [_tb_end_text]
 
 [chara_mod  name="sable"  time="600"  cross="true"  storage="chara/3/Sable_kuufuku.png"  ]
 [tb_start_text mode=3 ]
 「我要金枪鱼！」[p][r]
-「没有啦。」[p][r]
+「没有啦」[p][r]
 还是老样子，它想吃的几乎都是鱼。[p][r]
 「妮娅呢？」[p][r]
 
@@ -67,7 +67,7 @@
 [tb_start_text mode=3 ]
 「那边！」[p][r]
 我问了一个早已知道答案的问题。[l][r]
-明白我不会给它食物之后，酥饼立刻快步跑掉了。[l][r]
+明白我不会给它食物之后，莎布蕾立刻快步跑掉了。[l][r]
 
 [_tb_end_text]
 
@@ -80,8 +80,8 @@
 [bg  time="1000"  method="crossfade"  storage="str/Hikikomori_1.png"  ]
 [tb_start_text mode=3 ]
 我叹了口气，打开妮娅的房门。[p][r]
-「妮娅，要乖乖吃饭啊。」[p][r]
-「……啰唆。」[p][r]
+「妮娅，要乖乖吃饭啊」[p][r]
+「……啰唆」[p][r]
 我觉得我们两个都是笨拙的人。[l][r]
 
 [_tb_end_text]
@@ -95,16 +95,16 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「姐姐说她明天会回来。」[p][r]
-「是哦。」[p][r]
-「我们去带酥饼散步吧？」[p][r]
-「不去　我怕。」[p][r]
+「姐姐说她明天会回来」[p][r]
+「是哦」[p][r]
+「我们去带莎布蕾散步吧？」[p][r]
+「不去　我怕」[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「……不想吃冰淇淋吗？我帮你买哦。」[p][r]
-「不用了，我没有食欲。」[p][r]
+「……不想吃冰淇淋吗？我帮你买哦」[p][r]
+「不用了，我没有食欲」[p][r]
 虽然妮娅笨拙地挤出这句话，却全被敷衍过去了。[p][r]
 「这样啊……」[p][r]
 
@@ -119,9 +119,9 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「没有。」[p][r]
-「酥培儿变得很健谈了呢。」[p][r]
-「嗯。」[p][r]
+「没有」[p][r]
+「莎布蕾变得很健谈了呢」[p][r]
+「嗯」[p][r]
 又是一阵沉默。[l][r]
 
 [_tb_end_text]
@@ -149,7 +149,7 @@
 
 [bg  time="1000"  method="crossfade"  storage="str/Hikikomori_2.png"  ]
 [tb_start_text mode=3 ]
-「名字。」[p][r]
+「名字」[p][r]
 「嗯？」[p][r]
 「我只能呼唤你的名字……」[p][r]
 
@@ -165,7 +165,7 @@
 
 [tb_start_text mode=3 ]
 「……」[p][r]
-「所以，这样不也很好吗……一定是的。」[p][r]
+「所以，这样不也很好吗……一定是的」[p][r]
 说完之后，我也沉默了下来。[l][r]
 过去绝对无法改变。[l][r]
 
@@ -189,7 +189,7 @@
 
 [chara_mod  name="sable"  time="600"  cross="true"  storage="chara/3/Sable_kanashimi.png"  ]
 [tb_start_text mode=3 ]
-「妮娅好像怪怪的。」[p][r]
+「妮娅好像怪怪的」[p][r]
 「是啊……」[p][r]
 我曾经听说，猫似乎无法理解悲伤之类的情感。[p][r]
 
@@ -202,9 +202,9 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-说完，酥饼就蹦蹦跳跳地跑向妮娅。[l][r]
+说完，莎布蕾就蹦蹦跳跳地跑向妮娅。[l][r]
 据说，猫会在人消沉时凑到身边，并不是出于安慰，而是出于对不同往常的同居人的好奇心。[l][r]
-虽然是自己的一厢情愿，但我还是觉得，酥饼待在悲伤的外侧　让我感到很欣慰。[l][r]
+虽然是自己的一厢情愿，但我还是觉得，莎布蕾待在悲伤的外侧　让我感到很欣慰。[l][r]
 猫总是，自由的，轻巧的[l][r]
 
 [_tb_end_text]

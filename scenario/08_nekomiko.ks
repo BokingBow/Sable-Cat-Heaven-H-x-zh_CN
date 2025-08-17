@@ -53,7 +53,7 @@
 [tb_start_text mode=3 ]
 「你要去哪？」[p][r]
 姐姐在客厅看电视。[p][r]
-「我买冰回来。」[p][r]
+「我买冰回来」[p][r]
 
 [_tb_end_text]
 
@@ -61,14 +61,14 @@
 「要去松申吗？」[p][r]
 松申是松田商店的简称。[l][r]
 如果这一带有卖零食或冰淇淋，就只有松申。[p][r]
-「啊啊。」[p][r]
+「啊啊」[p][r]
 
 [_tb_end_text]
 
 [chara_mod  name="kiko"  time="600"  cross="true"  storage="chara/2/kiko_w.png"  ]
 [tb_start_text mode=3 ]
-「帮我买一份。」[p][r]
-「好啊。」[p][r]
+「帮我买一份」[p][r]
+「好啊」[p][r]
 
 [_tb_end_text]
 
@@ -109,8 +109,8 @@
 
 [chara_show  name="nekomiko"  time="1000"  wait="true"  storage="chara/7/Nekomikonom.png"  width="1024"  height="576"  top="100"  ]
 [tb_start_text mode=3 ]
-「啊，午安。」[p][r]
-「咦？你好。」[p][r]
+「啊，午安」[p][r]
+「咦？你好」[p][r]
 
 [_tb_end_text]
 
@@ -122,7 +122,7 @@
 [chara_mod  name="nekomiko"  time="600"  cross="true"  storage="chara/7/Nekomikow.png"  ]
 [tb_start_text mode=3 ]
 「好热啊～」[p][r]
-「呃，是啊。」[p][r]
+「呃，是啊」[p][r]
 猫耳，很流行吗？[p][r]
 
 [_tb_end_text]
@@ -131,7 +131,7 @@
 [tb_start_text mode=3 ]
 「最近过得好吗？」[p][r]
 白色猫耳晃了晃。[p][r]
-「还算可以。」[p][r]
+「还算可以」[p][r]
 这个人，也是真正的猫耳吗……[l][r]
 
 [_tb_end_text]
@@ -153,7 +153,7 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「我从未听说过，这座神社雇用了巫女。」[p][r]
+「我从未听说过，这座神社雇用了巫女」[p][r]
 毕竟我和神主的儿子也认识。[l][r]
 如果有什么新的事情，我马上就会听说。[p][r]
 
@@ -176,25 +176,25 @@
 
 [chara_mod  name="nekomiko"  time="600"  cross="true"  storage="chara/7/Nekomikow.png"  ]
 [tb_start_text mode=3 ]
-「……小玉。」[p][r]
+「……小玉」[p][r]
 「小玉？」[p][r]
-「小偷。」[p][r]
+「小偷」[p][r]
 「……？」[p][r]
 
 [_tb_end_text]
 
 [chara_mod  name="nekomiko"  time="600"  cross="true"  storage="chara/7/Nekomikonom.png"  ]
 [tb_start_text mode=3 ]
-「小白、小虎、斯诺、卡罗琳、小渐……咪。」[p][r]
+「小白、小虎、斯诺、卡罗琳、小渐……咪」[p][r]
 「是猫的名字？」[p][r]
-「是『我』。」[p][r]
+「是『我』」[p][r]
 「……？」[p][r]
 
 [_tb_end_text]
 
 [chara_mod  name="nekomiko"  time="600"  cross="true"  storage="chara/7/Nekomikow.png"  ]
 [tb_start_text mode=3 ]
-「记忆中被这么称呼的就是我。」[p][r]
+「记忆中被这么称呼的就是我」[p][r]
 「这些不都是宠物的名字吗？」[p][r]
 卡罗琳、小渐，这些名字我都有印象。[l][r]
 吉田先生以前养过的卡罗琳，听说是一只附有血统书，价值不菲的猫。[l][r]
@@ -210,14 +210,14 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「它已经死了。」[p][r]
+「它已经死了」[p][r]
 
 [_tb_end_text]
 
 [chara_mod  name="nekomiko"  time="600"  cross="true"  storage="chara/7/Nekomikonom.png"  ]
 [tb_start_text mode=3 ]
-「我知道。」[p][r]
-「死去的人……不会说话，也见不到面。」[p][r]
+「我知道」[p][r]
+「死去的人……不会说话，也见不到面」[p][r]
 
 [_tb_end_text]
 
@@ -226,7 +226,7 @@
 「是吗？」[p][r]
 「什么？」[p][r]
 猫耳巫女用仿佛看透一切的眼神看着我。[p][r]
-「达彦的记忆也有在我脑中。」[p][r]
+「达彦的记忆也有在我脑中」[p][r]
 这种说法真奇妙。[p][r]
 
 [_tb_end_text]
@@ -234,7 +234,7 @@
 [tb_start_text mode=3 ]
 「我还没……」[p][r]
 报上自己的名字。[p][r]
-「酥饼也一样。」[p][r]
+「莎布蕾也一样」[p][r]
 「咦？」[p][r]
 
 [_tb_end_text]
@@ -242,7 +242,7 @@
 [tb_start_text mode=3 ]
 「您不是现在见到了它吗？」[p][r]
 「见到什么……」[p][r]
-「不过，您确实无法与已经死去的猫对话。」[p][r]
+「不过，您确实无法与已经死去的猫对话」[p][r]
 「……你这话是什么意思？」[p][r]
 
 [_tb_end_text]
@@ -250,7 +250,7 @@
 [chara_mod  name="nekomiko"  time="600"  cross="true"  storage="chara/7/Nekomikokanas.png"  ]
 [tb_start_text mode=3 ]
 「影子……是记忆。[l][r]
-是思念。」[p][r]
+是思念」[p][r]
 「思念？」[p][r]
 我听得一头雾水。[p][r]
 
@@ -259,7 +259,7 @@
 [chara_mod  name="nekomiko"  time="600"  cross="true"  storage="chara/7/Nekomikow.png"  ]
 [tb_start_text mode=3 ]
 「就如同洒在这棵树下的阳光，[l][r]
-层层重叠之下，偶然间触及到您的思念。」[p][r]
+层层重叠之下，偶然间触及到您的思念」[p][r]
 一阵强风忽然吹过。[p][r]
 「好痛……」[p][r]
 
@@ -325,7 +325,7 @@
 
 [tb_start_text mode=3 ]
 压杉先生为什么在这里？」[p][r]
-「继续现场调查啊。」[p][r]
+「继续现场调查啊」[p][r]
 「神明……」[p][r]
 「嗯？」[p][r]
 
@@ -338,7 +338,7 @@
 
 [chara_mod  name="atsusugi"  time="600"  cross="true"  storage="chara/4/Atsusugi_nom.png"  ]
 [tb_start_text mode=3 ]
-「……嗯哼。」[p][r]
+「……嗯哼」[p][r]
 压杉先生露出坏笑。[p][r]
 「怎么了……」[p][r]
 
@@ -355,10 +355,10 @@
 
 [chara_mod  name="atsusugi"  time="600"  cross="true"  storage="chara/4/Atsusugi_nom.png"  ]
 [tb_start_text mode=3 ]
-「会吗？这座城里有很多跟猫相关的传说哦。」[p][r]
+「会吗？这座城里有很多跟猫相关的传说哦」[p][r]
 「传说？」[p][r]
 「你没听过吗？」[p][r]
-「嗯，我不太清楚这方面的事情。」[p][r]
+「嗯，我不太清楚这方面的事情」[p][r]
 
 [_tb_end_text]
 
@@ -390,7 +390,7 @@
 [tb_start_text mode=3 ]
 我想起了它前几天带我去看的老井。[l][r]
 是从这里来的。[l][r]
-酥饼是这么说的。[l][r]
+莎布蕾是这么说的。[l][r]
 因为肾功能衰竭而陷入末期，不断抽搐，无论是谁来看都是奄奄一息的那只猫——[l][r]
 
 [_tb_end_text]
@@ -398,7 +398,7 @@
 [tb_start_text mode=3 ]
 它借用人形从井中走了出来。[p][r]
 「这一切都在人们不知道的地方……[l][r]
-只有猫知道。」[p][r]
+只有猫知道」[p][r]
 「猫的味噌汤是这么残酷的吗……」[p][r]
 
 [_tb_end_text]
@@ -412,16 +412,16 @@
 [quake  time="300"  count="3"  hmax="10"  wait="true"  ]
 [tb_start_text mode=3 ]
 压杉先生用力拍了我一下。[p][r]
-「总觉得你很配合呢。」[p][r]
+「总觉得你很配合呢」[p][r]
 「是吗？可能吧？」[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 压杉先生说完，用中指使劲推了推墨镜。[p][r]
-「那我先走了。」[p][r]
-「啊啊，对了，如果有想到什么　再告诉我哦。」[p][r]
-「哦。」[p][r]
+「那我先走了」[p][r]
+「啊啊，对了，如果有想到什么　再告诉我哦」[p][r]
+「哦」[p][r]
 
 [_tb_end_text]
 
@@ -455,7 +455,7 @@
 [mask_off  time="500"  effect="fadeOut"  ]
 [tb_start_text mode=3 ]
 「阿达，欢迎回家～给我冰～」[p][r]
-「啊，我忘记了。」[p][r]
+「啊，我忘记了」[p][r]
 
 [_tb_end_text]
 
@@ -466,7 +466,7 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「真是短暂的人生。」[p][r]
+「真是短暂的人生」[p][r]
 
 [_tb_end_text]
 

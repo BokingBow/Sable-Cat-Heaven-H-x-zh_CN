@@ -32,12 +32,12 @@
 
 [chara_mod  name="kiko"  time="600"  cross="true"  storage="chara/2/kiko_nikoniko.png"  ]
 [tb_start_text mode=3 ]
-「对了，达彦，你昨天说的洗浴中心要盖的地方就在这附近。」[p][r]
+「对了，达彦，你昨天说的洗浴中心要盖的地方就在这附近」[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「差不多该看见了吧。」[p][r]
+「差不多该看见了吧」[p][r]
 在毫无变化的城镇里，这是难得的景象。[l][r]
 一个被白色工地围栏围住的空间。[p][r]
 「竟然在这种偏僻的地方……」[p][r]
@@ -68,16 +68,16 @@
 
 [chara_mod  name="atsusugi"  time="600"  cross="true"  storage="chara/4/Atsusugi_w.png"  ]
 [tb_start_text mode=3 ]
-「哎呀，午安。」[p][r]
+「哎呀，午安」[p][r]
 感觉她的一举一动也很成熟……[p][r]
-「今天也很热呢。」[p][r]
+「今天也很热呢」[p][r]
 姐姐对这个神秘人物也产生了兴趣，试图与她继续交谈。[l][r]
 
 [_tb_end_text]
 
 [chara_show  name="niya"  time="1000"  wait="true"  storage="chara/1/Niya_utsumuki.png"  width="1280"  height="720"  top="0"  ]
 [tb_start_text mode=3 ]
-怕生的妮娅带着酥饼躲到我身后。[p][r]
+怕生的妮娅带着莎布蕾躲到我身后。[p][r]
 「是啊，好热……」[p][r]
 神秘女性装模作样地说道。[p][r]
 
@@ -115,7 +115,7 @@
 
 [tb_start_text mode=3 ]
 妮娅也忍不住叫出声来。[p][r]
-「不妙！而且还是两位这样的美少女。」[p][r]
+「不妙！而且还是两位这样的美少女」[p][r]
 「诶？」[p][r]
 那个不妙的女人指着妮娅和奇思姐。[p][r]
 
@@ -125,13 +125,13 @@
 「年轻人啊！你一定要来超级……不，来超级洗浴中心做兼职！」[p][r]
 「诶诶？」[p][r]
 「时薪还会涨哦～～最低工资的1.3倍……不，1.5倍！」[p][r]
-「那个，不。」[p][r]
+「那个，不」[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 「有这样的漂亮招牌女孩的话，生意一定很好！」[p][r]
-「诶。」[p][r]
+「诶」[p][r]
 「招牌……不，作为岩盘娘，作为当地偶像也可以哦！」[p][r]
 这种名字的偶像要是流行起来的话谁受得了。[p][r]
 
@@ -162,15 +162,15 @@
 「本小姐是谁……！？」[p][r]
 「啊……？」[p][r]
 「你问了个好问题！」[p][r]
-「哈啊。」[p][r]
+「哈啊」[p][r]
 
 [_tb_end_text]
 
 [chara_mod  name="atsusugi"  time="600"  cross="true"  storage="chara/4/Atsusugi_w.png"  ]
 [tb_start_text mode=3 ]
-「汤之花传播股份有限公司　东日本支部统筹总经理压杉来海　哟。」[p][r]
+「汤之花传播股份有限公司　东日本支部统筹总经理压杉来海　哟」[p][r]
 她迅速地递给我一张名片。[p][r]
-「啊，谢谢　这么郑重。」[p][r]
+「啊，谢谢　这么郑重」[p][r]
 热过头　来海。[l][r]
 
 [_tb_end_text]
@@ -187,7 +187,7 @@
 [tb_start_text mode=3 ]
 「啊是吗　真可惜[l][r]
 要到其他城市吗？」[p][r]
-「不，我要在这个城市工作。」[p][r]
+「不，我要在这个城市工作」[p][r]
 
 [_tb_end_text]
 
@@ -265,7 +265,7 @@
 [tb_start_text mode=3 ]
 「明年就会开业了，你们尽管来吧」[p][r]
 超级洗浴中心啊……[p][r]
-「毕竟，这里是个什么都没有的城镇嘛。」[p][r]
+「毕竟，这里是个什么都没有的城镇嘛」[p][r]
 
 [_tb_end_text]
 
@@ -282,7 +282,7 @@
 
 [chara_mod  name="atsusugi"  time="600"  cross="true"  storage="chara/4/Atsusugi_odo.png"  ]
 [tb_start_text mode=3 ]
-「哎呀……是猫耳美女。」[p][r]
+「哎呀……是猫耳美女」[p][r]
 压杉先生好奇地望着萨布雷。[l][r]
 也是，这确实稀奇……[p][r]
 
@@ -292,22 +292,22 @@
 [tb_start_text mode=3 ]
 「……真货？」[p][r]
 什么真货？[p][r]
-「没有啦，那是角色扮演。角色扮演，角色扮演。」[p][r]
+「没有啦，那是角色扮演。角色扮演，角色扮演」[p][r]
 我连忙插话。[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「可是它在动耶。」[p][r]
-「这是高科技。最新型的猫耳。」[p][r]
+「可是它在动耶」[p][r]
+「这是高科技。最新型的猫耳」[p][r]
 「最新……网络猫耳？」[p][r]
-「对啊，网络哦。」[p][r]
+「对啊，网络哦」[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 「奇美拉科技・猫耳？」[p][r]
-「融合一堆猫耳也不会增加攻击次数啦。」[p][r]
+「融合一堆猫耳也不会增加攻击次数啦」[p][r]
 「五连击！」[p][r]
 「五连击！」[p][r]
 
@@ -328,7 +328,7 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-尽管不明白意思，酥饼也跟着大叫。[p][r]
+尽管不明白意思，莎布蕾也跟着大叫。[p][r]
 
 [_tb_end_text]
 
@@ -352,7 +352,7 @@
 
 [chara_mod  name="atsusugi"  time="600"  cross="true"  storage="chara/4/Atsusugi_w.png"  ]
 [tb_start_text mode=3 ]
-「最后能依赖的只有自己的直觉，我是来确认的。」[p][r]
+「最后能依赖的只有自己的直觉，我是来确认的」[p][r]
 「确认什么？」[p][r]
 「气氛……」[p][r]
 
@@ -360,20 +360,20 @@
 
 [tb_start_text mode=3 ]
 气氛。[p][r]
-「感觉有点松散呢。」[p][r]
+「感觉有点松散呢」[p][r]
 
 [_tb_end_text]
 
 [chara_mod  name="atsusugi"  time="600"  cross="true"  storage="chara/4/Atsusugi_nirami.png"  ]
 [tb_start_text mode=3 ]
-「数字固然方便，但可不能凡事都用数字来衡量哦。」[p][r]
-「这话好像很深奥耶。」[p][r]
+「数字固然方便，但可不能凡事都用数字来衡量哦」[p][r]
+「这话好像很深奥耶」[p][r]
 
 [_tb_end_text]
 
 [chara_mod  name="atsusugi"  time="600"  cross="true"  storage="chara/4/Atsusugi_nom.png"  ]
 [tb_start_text mode=3 ]
-「确实很深奥哦……这个世界也是有我们无法想象的东西。」[p][r]
+「确实很深奥哦……这个世界也是有我们无法想象的东西」[p][r]
 「无法想象的东西……？」[p][r]
 
 [_tb_end_text]
@@ -382,7 +382,7 @@
 [stopbgm  time="1500"  fadeout="true"  ]
 [tb_start_text mode=3 ]
 「比如说……[l][r]
-神明之类吧。」[p][r]
+神明之类吧」[p][r]
 「神明？」[p][r]
 
 [_tb_end_text]

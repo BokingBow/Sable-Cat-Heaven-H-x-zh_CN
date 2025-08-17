@@ -103,7 +103,7 @@
 [tb_start_text mode=3 ]
 「是井。后山的，从那里来的……」[p][r]
 「井……？」[p][r]
-「之前我和酥饼进入的树丛里，有一口井。」[p][r]
+「之前我和莎布蕾进入的树丛里，有一口井」[p][r]
 我确信。[l][r]
 
 [_tb_end_text]
@@ -134,8 +134,8 @@
 [chara_show  name="nekomiko"  time="1000"  wait="true"  storage="chara/7/Nekomikonom.png"  width="1024"  height="576"  top="100"  ]
 [playbgm  volume="70"  time="1000"  loop="true"  storage="madeinsummer2.mp3"  ]
 [tb_start_text mode=3 ]
-「达彦。」[p][r]
-一瞬间，我还以为是酥饼，不过却是之前那个猫耳巫女。[p][r]
+「达彦」[p][r]
+一瞬间，我还以为是莎布蕾，不过却是之前那个猫耳巫女。[p][r]
 「你好……」[p][r]
 
 [_tb_end_text]
@@ -144,16 +144,16 @@
 [tb_start_text mode=3 ]
 「在这前面？」[p][r]
 巫女小姐指着称不上道路的树丛。[p][r]
-「……酥饼果然是从那口井里来的吗？」[p][r]
+「……莎布蕾果然是从那口井里来的吗？」[p][r]
 总觉得，这位巫女小姐好像知道一切。[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「明天，在猫宫神社的例大祭结束之前，可以特别让你过去。」[p][r]
-「虽然之前我看到的时候已经被填起来了。」[p][r]
+「明天，在猫宫神社的例大祭结束之前，可以特别让你过去」[p][r]
+「虽然之前我看到的时候已经被填起来了」[p][r]
 「那是本来的样子哦。[l][r]
-只是，偶尔会有这样的夜晚。」[p][r]
+只是，偶尔会有这样的夜晚」[p][r]
 
 [_tb_end_text]
 
@@ -161,22 +161,22 @@
 [tb_start_text mode=3 ]
 树丛里传来了喵喵的猫叫声。[l][r]
 那并非家猫惹人怜爱的叫声，而是围猎猎物的野兽般的叫声……[p][r]
-「酥培……真的必须回去吗？」[p][r]
+「莎布蕾……真的必须回去吗？」[p][r]
 巫女落寞地点了点头。[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「因为所有的一切都有期限。」[p][r]
+「因为所有的一切都有期限」[p][r]
 「分别之后，就再也见不到了吗？」[p][r]
-「那就是生命的终结。」[p][r]
-「那么，酥培为什么明知会分别，还要来找我们呢？」[p][r]
+「那就是生命的终结」[p][r]
+「那么，莎布蕾为什么明知会分别，还要来找我们呢？」[p][r]
 
 [_tb_end_text]
 
 [chara_mod  name="nekomiko"  time="600"  cross="true"  storage="chara/7/Nekomikow.png"  ]
 [tb_start_text mode=3 ]
-「……关于这点，请你直接问酥培吧。」[p][r]
+「……关于这点，请你直接问莎布蕾吧」[p][r]
 巫女笑了。[p][r]
 
 [_tb_end_text]
@@ -184,7 +184,7 @@
 [chara_mod  name="nekomiko"  time="600"  cross="true"  storage="chara/7/Nekomikonom.png"  ]
 [tb_start_text mode=3 ]
 「在猫猫温泉要注意。[l][r]
-如果被泼到的话，就会变成猫。」[p][r]
+如果被泼到的话，就会变成猫」[p][r]
 
 [_tb_end_text]
 
@@ -219,7 +219,7 @@
 
 [chara_mod  name="nekomiko"  time="600"  cross="true"  storage="chara/7/Nekomikonom.png"  ]
 [tb_start_text mode=3 ]
-因为那人的兴趣恶劣，我马上就看出来了。」[p][r]
+因为那人的兴趣恶劣，我马上就看出来了」[p][r]
 「那，那萨布勒呢……不能带它回去吗？」[p][r]
 「……[l][r]
 一旦被猫猫温泉淋到失去人的样子，又被井井封闭起来，那就再也回不到人的世界了。来吧，动作快」[p][r]
@@ -290,7 +290,7 @@
 
 [tb_start_text mode=3 ]
 「吾辈是……灰。[l][r]
-神猫的武士，灰。」[p][r]
+神猫的武士，灰」[p][r]
 
 [_tb_end_text]
 
@@ -303,7 +303,7 @@
 [tb_start_text mode=3 ]
 非日常。[l][r]
 我再次意识到死亡的存在。[p][r]
-「放心吧……吾辈不会杀你的。」[p][r]
+「放心吧……吾辈不会杀你的」[p][r]
 灰察觉到我的恐惧感，笑了起来。[p][r]
 
 [_tb_end_text]
@@ -311,7 +311,7 @@
 [tb_start_text mode=3 ]
 「能让我们通过吗？」[p][r]
 「前面可是猫国哦。[l][r]
-人类怎么可能获准进入。」[p][r]
+人类怎么可能获准进入」[p][r]
 「姐姐她……被人类的…地，地狱给带走了，[l][r]
 
 [_tb_end_text]
@@ -319,7 +319,7 @@
 [tb_start_text mode=3 ]
 所以，我必须把她带回来才行……」[p][r]
 「哦？地狱那家伙，把人带走了？[l][r]
-这可是件大事啊。」[p][r]
+这可是件大事啊」[p][r]
 灰似乎稍微能和我沟通。[l][r]
 
 [_tb_end_text]
@@ -330,7 +330,7 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「等你睡着后，我再慢慢地去和地狱本人追究这件事吧。」[p][r]
+「等你睡着后，我再慢慢地去和地狱本人追究这件事吧」[p][r]
 
 [_tb_end_text]
 
@@ -355,7 +355,7 @@
 这家伙是妖怪、恶鬼之类的东西。[l][r]
 这该不会全都是在作梦吧？[l][r]
 我这么想着。[l][r]
-一睁开眼就是在自己房间，酥饼就睡在一旁，妮娅马上就会来找我了吧？[p][r]
+一睁开眼就是在自己房间，莎布蕾就睡在一旁，妮娅马上就会来找我了吧？[p][r]
 
 [_tb_end_text]
 
@@ -363,7 +363,7 @@
 即使沉迷于无聊的幻想，也想不到突破局面的方法。[l][r]
 这可不是赤手空拳就能打赢的对手……[l][r]
 灰举起了刀。[p][r]
-「放心吧……我会用刀背的。」[p][r]
+「放心吧……我会用刀背的」[p][r]
 
 [_tb_end_text]
 
@@ -400,7 +400,7 @@
 
 [chara_mod  name="niya"  time="600"  cross="true"  storage="chara/1/Niya_utsumuki.png"  ]
 [tb_start_text mode=3 ]
-「这、这个……给你。」[p][r]
+「这、这个……给你」[p][r]
 妮娅用尽全力大声喊道。[l][r]
 给我？给我什么？[p][r]
 「呜……这味道太棒了……[l][r]
@@ -426,7 +426,7 @@
 [playbgm  volume="70"  time="1000"  loop="true"  storage="stugai_sic_py16OKE.mp3"  ]
 [tb_start_text mode=3 ]
 「奶嘴？」[p][r]
-「乖乖。」[p][r]
+「乖乖」[p][r]
 妮娅摸着灰的头。[p][r]
 
 [_tb_end_text]

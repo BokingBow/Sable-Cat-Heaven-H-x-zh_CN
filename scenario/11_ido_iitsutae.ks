@@ -33,13 +33,13 @@
 [tb_start_text mode=3 ]
 「阿达你要去哪？」[p][r]
 出院检查结束的姐姐向我搭话。[p][r]
-「外面。」[p][r]
-「什么啦。」[p][r]
+「外面」[p][r]
+「什么啦」[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「没事。」[p][r]
+「没事」[p][r]
 
 [_tb_end_text]
 
@@ -70,7 +70,7 @@
 [chara_show  name="atsusugi"  time="1000"  wait="true"  storage="chara/4/Atsusugi_w.png"  width="1280"  height="720"  top="0"  ]
 [tb_start_text mode=3 ]
 「嗨，少年！」[p][r]
-「啊，压杉先生。」[p][r]
+「啊，压杉先生」[p][r]
 
 [_tb_end_text]
 
@@ -83,16 +83,16 @@
 [tb_start_text mode=3 ]
 「你是不是在想，又来了？」[p][r]
 惊。[p][r]
-「啊，还好，因为这个小镇没什么。」[p][r]
+「啊，还好，因为这个小镇没什么」[p][r]
 
 [_tb_end_text]
 
 [chara_mod  name="atsusugi"  time="600"  cross="true"  storage="chara/4/Atsusugi_nom.png"  ]
 [tb_start_text mode=3 ]
-「就是说嘛～这个小镇真的很缺乏娱乐。」[p][r]
+「就是说嘛～这个小镇真的很缺乏娱乐」[p][r]
 被鄙视了。[l][r]
 虽然我总是自嘲，但被外来的游客这么说还是会觉得不爽。[p][r]
-「不不，话是这么说，其实有很多东西的。」[p][r]
+「不不，话是这么说，其实有很多东西的」[p][r]
 
 [_tb_end_text]
 
@@ -111,18 +111,18 @@
 
 [tb_start_text mode=3 ]
 这个小镇可没什么东西哦……[p][r]
-「啊～比如那个，沿海的烤鱼店之类的。」[p][r]
-「很好吃呢。我已经去过好几次了。」[p][r]
-「呃，神社。」[p][r]
+「啊～比如那个，沿海的烤鱼店之类的」[p][r]
+「很好吃呢。我已经去过好几次了」[p][r]
+「呃，神社」[p][r]
 
 [_tb_end_text]
 
 [chara_mod  name="atsusugi"  time="600"  cross="true"  storage="chara/4/Atsusugi_w.png"  ]
 [tb_start_text mode=3 ]
-「当然。我和神主已经是死党了。」[p][r]
+「当然。我和神主已经是死党了」[p][r]
 死党？[l][r]
 这个人说不定比我更能融入这个小镇。[p][r]
-「啊——比如有猫耳的地藏菩萨之类。」[p][r]
+「啊——比如有猫耳的地藏菩萨之类」[p][r]
 
 [_tb_end_text]
 
@@ -131,7 +131,7 @@
 「猫耳？」[p][r]
 啊。[l][r]
 说起来，他说过自己在调查传说之类的东西吧。[p][r]
-「这个小镇的人知道的人很少，算是隐藏物件哦。」[p][r]
+「这个小镇的人知道的人很少，算是隐藏物件哦」[p][r]
 
 [_tb_end_text]
 
@@ -168,9 +168,9 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「毕竟没人去拜它啊，我也是最近才知道的。」[p][r]
+「毕竟没人去拜它啊，我也是最近才知道的」[p][r]
 「没人拜？」[p][r]
-「你看了就会明白。」[p][r]
+「你看了就会明白」[p][r]
 「嗯？」[p][r]
 
 [_tb_end_text]
@@ -183,17 +183,17 @@
 [chara_hide_all  time="1000"  wait="true"  ]
 [bg  time="1000"  method="crossfade"  storage="BG/nekojizou.png"  ]
 [tb_start_text mode=3 ]
-「就是这个。」[p][r]
+「就是这个」[p][r]
 既没有祠堂也没有底座，仅是孤零零地立在路旁的一尊猫耳地藏。[p][r]
-「这的确是长着猫耳的地藏菩萨。」[p][r]
+「这的确是长着猫耳的地藏菩萨」[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「也就仅此而已。」[p][r]
-「不过挺有意思的。」[p][r]
-「哎，也就只是形状有点奇怪的石头啦。」[p][r]
-「没有留下口耳相传的故事，或许就不是为了拜而存在的地藏菩萨。」[p][r]
+「也就仅此而已」[p][r]
+「不过挺有意思的」[p][r]
+「哎，也就只是形状有点奇怪的石头啦」[p][r]
+「没有留下口耳相传的故事，或许就不是为了拜而存在的地藏菩萨」[p][r]
 
 [_tb_end_text]
 
@@ -223,17 +223,17 @@
 [chara_show  name="atsusugi"  time="1000"  wait="true"  storage="chara/4/Atsusugi_nirami.png"  width="1280"  height="720"  top="0"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=3 ]
-「徘徊于人类和猫之间。」[p][r]
+「徘徊于人类和猫之间」[p][r]
 「什么？」[p][r]
 回小镇的路上压杉先生说道。[p][r]
-「这个小镇的传说里经常出现的。」[p][r]
+「这个小镇的传说里经常出现的」[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 「传说……？」[p][r]
 「只残留在古老文献里，已经被人遗忘的故事。[l][r]
-猫死了只是消失。」[p][r]
+猫死了只是消失」[p][r]
 「哈啊，嗯」[p][r]
 
 [_tb_end_text]
@@ -241,7 +241,7 @@
 [bg  time="1000"  method="crossfade"  storage="BG/Matinska3.png"  ]
 [tb_start_text mode=3 ]
 「但是，人的思念成为了枷锁，[l][r]
-人类和猫之间存在……而让猫徘徊。」[p][r]
+人类和猫之间存在……而让猫徘徊」[p][r]
 「枷锁？」[p][r]
 「被爱或惋惜，不被人类需要的话，猫本来只会消失吧？」[p][r]
 

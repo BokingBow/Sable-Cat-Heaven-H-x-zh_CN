@@ -19,7 +19,7 @@
 「不知道……是肚子饿了吧？」[p][r]
 一直在神社发呆也不是办法，因此我们决定前往派出所。[p][r]
 「甘江！」[p][r]
-「话说……有耳朵也很莫名其妙。」[p][r]
+「话说……有耳朵也很莫名其妙」[p][r]
 
 [_tb_end_text]
 
@@ -27,7 +27,7 @@
 [chara_move  name="niya"  anim="true"  time="300"  effect="easeInCubic"  wait="true"  left="40"  ]
 [chara_mod  name="sable"  time="600"  cross="true"  storage="chara/3/Sable_gao.png"  ]
 [tb_start_text mode=3 ]
-「但是，很可爱呢。」[p][r]
+「但是，很可爱呢」[p][r]
 妮娅这么说着，紧紧抱住小豆豆。[p][r]
 「青甘！青甘！」[p][r]
 小豆豆一边叫着鱼的名字，一边抵抗。[p][r]
@@ -35,17 +35,17 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「总觉得，好像酥饼。」[p][r]
+「总觉得，好像莎布蕾」[p][r]
 「或许呢……」[p][r]
-酥饼被强行抱起来的时候也会这样抵抗。[p][r]
-「左手的铃铛，是酥饼的……」[p][r]
+莎布蕾被强行抱起来的时候也会这样抵抗。[p][r]
+「左手的铃铛，是莎布蕾的……」[p][r]
 
 [_tb_end_text]
 
 [chara_mod  name="niya"  time="600"  cross="true"  storage="chara/1/Niya_utsumuki.png"  ]
 [tb_start_text mode=3 ]
 「嗯……」[p][r]
-「酥饼！」[p][r]
+「莎布蕾！」[p][r]
 小豆豆从妮娅的怀中一跃而出。[p][r]
 
 [_tb_end_text]
@@ -54,24 +54,24 @@
 [chara_move  name="niya"  anim="true"  time="300"  effect="linear"  wait="true"  left="-160"  ]
 [chara_move  name="sable"  anim="true"  time="300"  effect="linear"  wait="true"  left="160"  ]
 [tb_start_text mode=3 ]
-「酥饼！酥饼！酥饼！」[p][r]
+「莎布蕾！莎布蕾！莎布蕾！」[p][r]
 
 [_tb_end_text]
 
 [playse  volume="50"  time="1000"  buf="0"  storage="suzu.mp3"  ]
 [tb_start_text mode=3 ]
 叮铃，叮铃。铃铛响着。[p][r]
-「呜哇，怎么了。」[p][r]
-「是对酥饼这个词产生了反应？」[p][r]
-「酥饼！」[p][r]
+「呜哇，怎么了」[p][r]
+「是对莎布蕾这个词产生了反应？」[p][r]
+「莎布蕾！」[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「这家伙，不光是鱼，还想吃酥饼？」[p][r]
-「总之，先去派出所吧。」[p][r]
-「是啊。」[p][r]
-「酥饼！」[p][r]
+「这家伙，不光是鱼，还想吃莎布蕾？」[p][r]
+「总之，先去派出所吧」[p][r]
+「是啊」[p][r]
+「莎布蕾！」[p][r]
 
 [_tb_end_text]
 
@@ -82,7 +82,7 @@
 [chara_show  name="niya"  time="1000"  wait="true"  storage="chara/1/Niya_nom.png"  width="1280"  height="720"  top="0"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=3 ]
-「哈啰。」[p][r]
+「哈啰」[p][r]
 
 [_tb_end_text]
 
@@ -91,7 +91,7 @@
 「哦，阿达和妮娅啊，怎么啦？」[p][r]
 是熟识的警察叔叔。[l][r]
 由于镇上孩子很少，我们总是受到警察关照。[p][r]
-「是这孩子。」[p][r]
+「是这孩子」[p][r]
 
 [_tb_end_text]
 
@@ -107,7 +107,7 @@
 [tb_start_text mode=3 ]
 「在那之前，那双耳朵是怎么回事？」[p][r]
 「哎～那是角色扮演吧？」[p][r]
-这么说完，我准备拉长酥饼的耳朵。[p][r]
+这么说完，我准备拉长莎布蕾的耳朵。[p][r]
 
 [_tb_end_text]
 
@@ -125,14 +125,14 @@
 
 [chara_mod  name="niya"  time="600"  cross="true"  storage="chara/1/Niya_oko.png"  ]
 [tb_start_text mode=3 ]
-「阿达，不可以那么粗鲁哦。」[p][r]
+「阿达，不可以那么粗鲁哦」[p][r]
 「可是，那个耳朵……」[p][r]
 「真的是角色扮演吗……？[l][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-在动来动去呢。」[p][r]
+在动来动去呢」[p][r]
 「最近的玩具真厉害啊～」[p][r]
 我用死板的语气说着。[l][r]
 果然不是我们变得奇怪，而是这孩子真的长着耳朵。[p][r]
@@ -142,15 +142,15 @@
 [chara_mod  name="other"  time="600"  cross="true"  storage="chara/11/omawari.png"  ]
 [tb_start_text mode=3 ]
 「……没有收到走失儿童的消息。[l][r]
-而且今天大概也没有游客会来。」[p][r]
+而且今天大概也没有游客会来」[p][r]
 「这样啊……这孩子，要怎么办呢？」[p][r]
 「嗯——暂时就先由你们照顾吧。[l][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-我稍微和署里确认一下。」[p][r]
-「啊，好的。」[p][r]
+我稍微和署里确认一下」[p][r]
+「啊，好的」[p][r]
 还是一如既往的随性警察小姐。[p][r]
 
 [_tb_end_text]
@@ -175,16 +175,16 @@
 [tb_start_text mode=3 ]
 「哦哇！」[p][r]
 幼鱼一进到家里，就向着客厅跑了过去。[p][r]
-「那家伙是怎么回事。」[p][r]
+「那家伙是怎么回事」[p][r]
 追上去一看，幼鱼正趴在桌子下面。[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「喂，都是灰尘很脏哦。」[p][r]
+「喂，都是灰尘很脏哦」[p][r]
 「鱼腥味～鱼干～鱼干～」[p][r]
 幼鱼这么说着，在桌子底下滚来滚去。[p][r]
-「呜哇……都是灰尘。」[p][r]
+「呜哇……都是灰尘」[p][r]
 
 [_tb_end_text]
 
@@ -196,7 +196,7 @@
 [chara_show  name="baacyan"  time="1000"  wait="true"  storage="chara/5/baachan_mom.png"  width="1280"  height="720"  top="0"  ]
 [tb_start_text mode=3 ]
 「发生什么事了？」[p][r]
-「奶奶，我回来了。」[p][r]
+「奶奶，我回来了」[p][r]
 「妮娅，你回来啦。[l][r]
 
 [_tb_end_text]
@@ -238,7 +238,7 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-在结果出来之前，我想把它寄放在我家。」[p][r]
+在结果出来之前，我想把它寄放在我家」[p][r]
 「这样啊……」[p][r]
 雪奶奶说完，温柔地摸了摸幼崽的头。[l][r]
 动作自然得就像平常就会这么做一样……[p][r]
@@ -248,7 +248,7 @@
 [tb_start_text mode=3 ]
 「或许没法找到这孩子的父母了……」[p][r]
 「咦，为什么？」[p][r]
-「我们也没找到酥饼的父母吧？」[p][r]
+「我们也没找到莎布蕾的父母吧？」[p][r]
 是生离死别啊。[l][r]
 
 [_tb_end_text]
@@ -280,7 +280,7 @@
 [tb_start_text mode=3 ]
 「它之前说的鱼名也是日语哦」[p][r]
 然后，小贾里扑通一声跑到厨房。[l][r]
-它在料理台的正旁边，酥饼吃饭时的固定位置坐了下来。[p][r]
+它在料理台的正旁边，莎布蕾吃饭时的固定位置坐了下来。[p][r]
 
 [_tb_end_text]
 
@@ -292,14 +292,14 @@
 
 [tb_start_text mode=3 ]
 「……我大概，和你想的一样」[p][r]
-「简直和酥饼一样呢」[p][r]
+「简直和莎布蕾一样呢」[p][r]
 雪奶奶也这么说道。[p][r]
 
 [_tb_end_text]
 
 [chara_mod  name="sable"  time="600"  cross="true"  storage="chara/3/Sable_w.png"  ]
 [tb_start_text mode=3 ]
-「酥饼！」[p][r]
+「莎布蕾！」[p][r]
 
 [_tb_end_text]
 
@@ -314,21 +314,21 @@
 
 [tb_start_text mode=3 ]
 据说是活得长的猫变成的。[l][r]
-不过，酥饼也的确有相当年纪。[p][r]
+不过，莎布蕾也的确有相当年纪。[p][r]
 
 [_tb_end_text]
 
 [chara_mod  name="niya"  time="600"  cross="true"  storage="chara/1/Niya_moji.png"  ]
 [tb_start_text mode=3 ]
-「这孩子……不是酥饼吗……」[p][r]
+「这孩子……不是莎布蕾吗……」[p][r]
 妮娅说道。[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「骗人的吧，它怎么看都是人类啊。」[p][r]
-「但是，它有耳朵啊。」[p][r]
-「不，可是啊。」[p][r]
+「骗人的吧，它怎么看都是人类啊」[p][r]
+「但是，它有耳朵啊」[p][r]
+「不，可是啊」[p][r]
 「饭……」[p][r]
 
 [_tb_end_text]
@@ -338,12 +338,12 @@
 「哎？」[p][r]
 「饭……饭！饭——！饭——！！饭——！！」[p][r]
 小贾开始大声叫喊。[l][r]
-那声音就像是等不及、在盘子前催促的酥饼一样……[p][r]
+那声音就像是等不及、在盘子前催促的莎布蕾一样……[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「来，这些是剩菜。」[p][r]
+「来，这些是剩菜」[p][r]
 雪奶奶给它切了一片盐烧青花鱼。[p][r]
 
 [_tb_end_text]
@@ -356,16 +356,16 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「啊，喂喂。」[p][r]
+「啊，喂喂」[p][r]
 「呼啊呼啊！呼啊呼啊！」[p][r]
 它一边嚼着青花鱼一边大口吃肉。[p][r]
-「先不管这家伙是不是酥饼……[l][r]
+「先不管这家伙是不是莎布蕾……[l][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-看来她不是在正常家庭长大的普通人呢。」[p][r]
-「或许变成了三色猫呢。」[p][r]
+看来她不是在正常家庭长大的普通人呢」[p][r]
+「或许变成了三色猫呢」[p][r]
 雪奶奶如此说道。[p][r]
 「变成？」[p][r]
 
@@ -373,17 +373,17 @@
 
 [tb_start_text mode=3 ]
 「这附近自古流传着这样的说法哦。[l][r]
-活了很久的猫会变成人类的样貌，前来告别的说法。」[p][r]
+活了很久的猫会变成人类的样貌，前来告别的说法」[p][r]
 「告别……？」[p][r]
-「猫会在住着长命猫的山里修行哦。」 [p][r]
+「猫会在住着长命猫的山里修行哦」 [p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 「修行……修什么？」[p][r]
-「为了成为欺骗人类的猫妖修行啊。」[p][r]
+「为了成为欺骗人类的猫妖修行啊」[p][r]
 「为什么？」[p][r]
-「不晓得，因为只是传说罢了。」[p][r]
+「不晓得，因为只是传说罢了」[p][r]
 
 [_tb_end_text]
 
@@ -402,7 +402,7 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「住手。」[p][r]
+「住手」[p][r]
 「阿达！」[p][r]
 
 [_tb_end_text]
@@ -410,7 +410,7 @@
 [quake  time="300"  count="3"  hmax="10"  wait="true"  ]
 [tb_start_text mode=3 ]
 它猛然撞了过来，我忍不住一屁股跌坐在地。[p][r]
-「你做什么。」[p][r]
+「你做什么」[p][r]
 
 [_tb_end_text]
 
@@ -426,24 +426,24 @@
 
 [tb_start_text mode=3 ]
 我用头蹭了蹭她的肚子，寻找让她冷静下来的角度。[p][r]
-「你……果然是酥饼吗……？」[p][r]
+「你……果然是莎布蕾吗……？」[p][r]
 「喵～」[p][r]
 然后它发出叫声，闭上眼睛睡着了。[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「喂。」[p][r]
+「喂」[p][r]
 「阿达好奸诈……」[p][r]
 「你认真的吗？」[p][r]
-「我也想躺大腿。」[p][r]
+「我也想躺大腿」[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「这样子，腿会麻掉哦。」[p][r]
-「已经过一秒钟了。」[p][r]
-「刺痛刺痛刺痛刺痛。」[p][r]
+「这样子，腿会麻掉哦」[p][r]
+「已经过一秒钟了」[p][r]
+「刺痛刺痛刺痛刺痛」[p][r]
 ？[l][r]
 
 [_tb_end_text]
@@ -451,7 +451,7 @@
 [bg  time="1000"  method="crossfade"  storage="3/wht.png"  ]
 [tb_start_text mode=3 ]
 我完全感觉不到现实感，根本不想吵它，预感变成了确信。[l][r]
-这个女生就是我们饲养的酥饼，[l][r]
+这个女生就是我们饲养的莎布蕾，[l][r]
 而且，大概……[l][r]
 是来向我们道别的。[p][r]
 

@@ -76,7 +76,7 @@
 
 [chara_mod  name="niya"  time="600"  cross="true"  storage="chara/1/Niya_oko.png"  ]
 [tb_start_text mode=3 ]
-「阿达，走吧。」[p][r]
+「阿达，走吧」[p][r]
 
 [_tb_end_text]
 
@@ -96,14 +96,14 @@
 
 [tb_start_text mode=3 ]
 但是，我能感觉到握在一起的手的触感。[p][r]
-「妮娅。」[p][r]
+「妮娅」[p][r]
 「嗯？」[p][r]
 「你为什么要来？[l][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-你明明……那么害怕。」[p][r]
+你明明……那么害怕」[p][r]
 「……理由和你一样，[l][r]
 因为奇莉姐姐和赛布尔都被带走了……」[p][r]
 「即使如此，你不是会怕得要死吗……」[p][r]
@@ -113,7 +113,7 @@
 [tb_start_text mode=3 ]
 「嗯……[l][r]
 我做事情都笨手笨脚，[l][r]
-总是无法融入周围，又迟钝。」[p][r]
+总是无法融入周围，又迟钝」[p][r]
 「……」[p][r]
 
 [_tb_end_text]
@@ -121,7 +121,7 @@
 [tb_start_text mode=3 ]
 「……尽管如此，其实我也会想要帮助别人，或是想好好做给大家看，我也是有这么想的哦。[l][r]
 ……就只是这样而已……」[p][r]
-「……这样啊。」[p][r]
+「……这样啊」[p][r]
 谢谢你。[l][r]
 
 [_tb_end_text]
@@ -161,16 +161,16 @@
 
 [tb_start_text mode=3 ]
 「水井呢？」[p][r]
-「在神社的后面。这个国家，入口和出口不一样。」[p][r]
+「在神社的后面。这个国家，入口和出口不一样」[p][r]
 「国家？」[p][r]
 「不是人的国家哦。[l][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-是猫的国家，猫咪的天堂。」[p][r]
+是猫的国家，猫咪的天堂」[p][r]
 某处传来了猫叫。[p][r]
-「天，堂。」[p][r]
+「天，堂」[p][r]
 
 [_tb_end_text]
 
@@ -181,7 +181,7 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-去神社的路上，有地狱宅邸。」[p][r]
+去神社的路上，有地狱宅邸」[p][r]
 灰向前迈步。[l][r]
 我和妮娅慌慌张张地跟上。[l][r]
 既然还有其他像灰一样拿着刀的人的话，就不能走散了。[p][r]
@@ -189,24 +189,24 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「小心被热汤烫伤哦。」[p][r]
+「小心被热汤烫伤哦」[p][r]
 「猫猫温泉？」[p][r]
 「你知道？」[p][r]
-「据说能冲淡人类的业障。」[p][r]
+「据说能冲淡人类的业障」[p][r]
 
 [_tb_end_text]
 
 [chara_mod  name="haiiro"  time="600"  cross="true"  storage="chara/10/haiiro_yasasisa.png"  ]
 [tb_start_text mode=3 ]
 「哦……？虽然不知道是谁告诉你的，[l][r]
-不过要是被那温泉给烫到，你们大概会变成猫吧。」[p][r]
+不过要是被那温泉给烫到，你们大概会变成猫吧」[p][r]
 「我本来就是猫哦？」[p][r]
 「这里正是猫的气运如此强大的地方，[l][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-灵魂都快被猫给占据了。」[p][r]
+灵魂都快被猫给占据了」[p][r]
 「被猫给占据？」[p][r]
 「不过，这点应该彼此彼此。[l][r]
 你觉得吾辈为什么会长得像人类？」[p][r]
@@ -222,9 +222,9 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「猫的灵魂也沾染了人的气运哦。」[p][r]
+「猫的灵魂也沾染了人的气运哦」[p][r]
 一直在听她胡言乱语，我听腻了。[p][r]
-「总之，小心不要被热汤淋到就对了吧。」[p][r]
+「总之，小心不要被热汤淋到就对了吧」[p][r]
 以前好像有看过这类的动画电影。[l][r]
 
 [_tb_end_text]
@@ -239,7 +239,7 @@
 [tb_start_text mode=3 ]
 「喵！？」[p][r]
 「喵喵！？」[p][r]
-「啊。」[p][r]
+「啊」[p][r]
 
 [_tb_end_text]
 
@@ -252,7 +252,7 @@
 
 [chara_mod  name="haiiro"  time="600"  cross="true"  storage="chara/10/haiiro_odo.png"  ]
 [tb_start_text mode=3 ]
-「啧……居然被你们看到了。」[p][r]
+「啧……居然被你们看到了」[p][r]
 
 [_tb_end_text]
 
@@ -286,7 +286,7 @@
 
 [chara_mod  name="haiiro"  time="600"  cross="true"  storage="chara/10/haiiro_nom.png"  ]
 [tb_start_text mode=3 ]
-「没什么，只是要让他们睡一会儿而已。」[p][r]
+「没什么，只是要让他们睡一会儿而已」[p][r]
 灰说完后，拔出了腰间的刀。[p][r]
 
 [_tb_end_text]
@@ -300,7 +300,7 @@
 
 [playbgm  volume="70"  time="1000"  loop="true"  storage="stugai_sic_py16OKE.mp3"  ]
 [tb_start_text mode=3 ]
-「放心吧，我用的是刀背。」[p][r]
+「放心吧，我用的是刀背」[p][r]
 好可靠。[p][r]
 
 [_tb_end_text]
@@ -315,10 +315,10 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-猫耳武士以迅雷不及掩耳的速度抱着我和酥饼跳上民宅的屋顶，然后飞越森林。[l][r]
+猫耳武士以迅雷不及掩耳的速度抱着我和莎布蕾跳上民宅的屋顶，然后飞越森林。[l][r]
 接着，不知为何进入发出光芒的井中……[l][r]
 我早已分不清现实与非现实的界线了。[l][r]
-我们在回荡着刺耳猫叫声的森林里飞快奔驰，最后我和酥饼被关进宅邸的一个房间里。[l][r]
+我们在回荡着刺耳猫叫声的森林里飞快奔驰，最后我和莎布蕾被关进宅邸的一个房间里。[l][r]
 
 [_tb_end_text]
 
@@ -345,21 +345,21 @@
 
 [chara_mod  name="zigoku"  time="600"  cross="true"  storage="chara/9/Zigokuw.png"  ]
 [tb_start_text mode=3 ]
-「对吧对吧。这些都是我收集的宝物。」[p][r]
+「对吧对吧。这些都是我收集的宝物」[p][r]
 「话说回来，你是什么？」[p][r]
 
 [_tb_end_text]
 
 [chara_mod  name="zigoku"  time="600"  cross="true"  storage="chara/9/Zigokunom.png"  ]
 [tb_start_text mode=3 ]
-「地狱。」[p][r]
+「地狱」[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 「地狱？」[p][r]
 「没错……我是猫的地狱。[l][r]
-我是地狱。」[p][r]
+我是地狱」[p][r]
 她咬紧牙关般地这么说道。[l][r]
 
 [_tb_end_text]
@@ -375,14 +375,14 @@
 [chara_show  name="sable"  time="1000"  wait="true"  storage="chara/3/Sable_kanashimi.png"  width="1280"  height="720"  top="0"  ]
 [tb_start_text mode=3 ]
 「辉子……？」[p][r]
-听到在我身边害怕的酥饼的叫声，我回过神来。[l][r]
+听到在我身边害怕的莎布蕾的叫声，我回过神来。[l][r]
 轻轻抱住了它。[p][r]
 「为什么……要带我过来？」[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-我隐隐约约能明白酥饼的感受。[l][r]
+我隐隐约约能明白莎布蕾的感受。[l][r]
 我们不可能永远在一起。[l][r]
 我打从一开始就知道了。[l][r]
 我也……[p][r]
@@ -406,7 +406,7 @@
 
 [chara_mod  name="zigoku"  time="600"  cross="true"  storage="chara/9/Zigokuw.png"  ]
 [tb_start_text mode=3 ]
-「是啊，你或许有资格知道。」[p][r]
+「是啊，你或许有资格知道」[p][r]
 
 [_tb_end_text]
 

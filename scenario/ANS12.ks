@@ -15,9 +15,9 @@
 [chara_show  name="takahiro"  time="1000"  wait="true"  storage="chara/4/Takahironom.png"  width="1024"  height="576"  top="50"  ]
 [playbgm  volume="70"  time="1000"  loop="true"  storage="hizashi.ogg"  ]
 [tb_start_text mode=3 ]
-「不要再弄坏了哦。」[p][r]
+「不要再弄坏了哦」[p][r]
 「又、又不是我弄坏的……」[p][r]
-「有栖，开车小心哦。」[p][r]
+「有栖，开车小心哦」[p][r]
 
 [_tb_end_text]
 
@@ -30,19 +30,19 @@
 [chara_mod  name="takahiro"  time="600"  cross="true"  storage="chara/4/Takahiroodo.png"  ]
 [tb_start_text mode=3 ]
 「嗯？」[p][r]
-「你也是，把辉子修好的事……谢谢你。」[p][r]
+「你也是，把辉子修好的事……谢谢你」[p][r]
 
 [_tb_end_text]
 
 [chara_mod  name="takahiro"  time="600"  cross="true"  storage="chara/4/Takahirow.png"  ]
 [tb_start_text mode=3 ]
-「因为这是我的工作啊。」[p][r]
+「因为这是我的工作啊」[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「你笑得真烂耶。」[p][r]
-「我才不想被你这么说。」[p][r]
+「你笑得真烂耶」[p][r]
+「我才不想被你这么说」[p][r]
 我们两人互瞪对方，呵呵地笑了。[p][r]
 「能跟朋友见面……真是太好了。[l][r]
 虽然没能见到辉子就是了。[l][r]
@@ -50,8 +50,8 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-不过能见到妮娅和笔友真是太好了。」[p][r]
-「帮我跟哥哥和哥哥的女朋友打声招呼哦。」[p][r]
+不过能见到妮娅和笔友真是太好了」[p][r]
+「帮我跟哥哥和哥哥的女朋友打声招呼哦」[p][r]
 
 [_tb_end_text]
 
@@ -79,10 +79,10 @@
 
 [chara_mod  name="takahiro"  time="600"  cross="true"  storage="chara/4/Takahiroodo.png"  ]
 [tb_start_text mode=3 ]
-「……因为我喜欢水槽。」[p][r]
+「……因为我喜欢水槽」[p][r]
 「辉子吗？」[p][r]
 「我喜欢在里面放些金鱼和乌龟之类……[l][r]
-看着它们。」[p][r]
+看着它们」[p][r]
 在无法逃脱的水槽里。[l][r]
 
 [_tb_end_text]
@@ -91,21 +91,21 @@
 即便如此，我依然遇见了辉子。[p][r]
 「所以……不知为何。[l][r]
 虽然它坏掉了，我也再也触碰不到姐姐的痕迹，但我觉得[l][r]
-如果待在那个地方，或许就不会感到寂寞了。」[p][r]
-「……这样啊。」[p][r]
+如果待在那个地方，或许就不会感到寂寞了」[p][r]
+「……这样啊」[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 我无法理解高尾达彦的想法。他是外星人吗？[l][r]
 不过，我明白他想要尽量减少我的寂寞。[p][r]
-「妮娅……我会再来找你的。」[p][r]
+「妮娅……我会再来找你的」[p][r]
 
 [_tb_end_text]
 
 [chara_mod  name="niya"  time="600"  cross="true"  storage="chara/2/Niyaw.png"  ]
 [tb_start_text mode=3 ]
-「嗯，约好了哦。」[p][r]
+「嗯，约好了哦」[p][r]
 又多了一个新的约定。[l][r]
 
 [_tb_end_text]
@@ -118,7 +118,7 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「那么，再见。」[p][r]
+「那么，再见」[p][r]
 我戴上头盔，戴上护目镜。[l][r]
 踢了引擎一脚，然后开始行驶。[l][r]
 
@@ -148,7 +148,7 @@
 
 [tb_start_text mode=3 ]
 吹来的风散落在后方。[l][r]
-・・・我并不是自由的。[l][r]
+………我并不是自由的。[l][r]
 也不是有什么确切的东西。[l][r]
 所以，我哼着歌。[l][r]
 不知在何时、何地，朋友唱过的[l][r]
