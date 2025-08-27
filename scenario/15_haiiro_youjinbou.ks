@@ -338,7 +338,7 @@
 [mask  time="20"  effect="fadeIn"  color="0xffffff"  ]
 [mask_off  time="20"  effect="fadeOut"  ]
 [tb_start_text mode=3 ]
-随着锵的一声，有什么东西发出了光芒。[l][r]
+随着铛的一声，有什么东西发出了光芒。[l][r]
 那是反射着月光的刀身。[l][r]
 
 [_tb_end_text]

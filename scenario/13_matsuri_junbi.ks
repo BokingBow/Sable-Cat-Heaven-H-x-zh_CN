@@ -144,7 +144,7 @@
 [chara_show  name="sable"  time="1"  wait="true"  storage="chara/3/Sable_nom.png"  width="1280"  height="720"  top="0"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=3 ]
-「锵锵！」[p][r]
+「铛铛！」[p][r]
 「干嘛啦」[p][r]
 
 [_tb_end_text]

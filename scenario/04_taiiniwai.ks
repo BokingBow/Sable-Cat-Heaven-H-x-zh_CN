@@ -11,7 +11,7 @@
 [playbgm  volume="70"  time="1000"  loop="true"  storage="madeinsummer3.mp3"  ]
 [tb_start_text mode=3 ]
 「莎布蕾？」[p][r]
-「鲑鱼！」[p][r]
+「三文鱼！」[p][r]
 
 [_tb_end_text]
 
@@ -28,7 +28,7 @@
 「怎么可能不惊讶。[l][r]
 不过，就算表现出夸张的反应，也不能改变什么吧？」[p][r]
 「唔……」[p][r]
-「鲑鱼！」[p][r]
+「三文鱼！」[p][r]
 
 [_tb_end_text]
 

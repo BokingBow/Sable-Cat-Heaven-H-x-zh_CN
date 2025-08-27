@@ -321,7 +321,7 @@
 [tb_start_text mode=3 ]
 你们捡回那只小家伙，已经过了很长一段时间……」[p][r]
 「对呀，感觉捡回莎布蕾也是很久以前的事情了……」[p][r]
-两人带着缥缈的目光聊起这个话题。[p][r]
+两人带着离神的目光聊起这个话题。[p][r]
 「……姐姐，还有奶奶，你们为什么这么轻易就接受了？」[p][r]
 
 [_tb_end_text]
@@ -513,7 +513,7 @@
 
 [chara_show  name="sable"  time="1000"  wait="true"  storage="chara/3/Sable_w.png"  width="1280"  height="720"  top="0"  ]
 [tb_start_text mode=3 ]
-「鲭鱼！」[p][r]
+「青花鱼！」[p][r]
 「嗯？」[p][r]
 
 [_tb_end_text]
@@ -606,7 +606,7 @@
 
 [tb_start_text mode=3 ]
 蝉鸣声响起的那一刻。[l][r]
-一个汗流浃背的季节。[l][r]
+一个汗流不止的季节。[l][r]
 有些奇妙的……那样的夏天。[p][r]
 
 [_tb_end_text]

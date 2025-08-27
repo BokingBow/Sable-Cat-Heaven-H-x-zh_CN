@@ -128,7 +128,7 @@
 [chara_mod  name="sable"  time="600"  cross="true"  storage="chara/3/Sable_gao.png"  ]
 [tb_start_text mode=3 ]
 「恶角！」[p][r]
-萨布列用鱼名插进对话中。[p][r]
+莎布蕾用鱼名插进对话中。[p][r]
 「欸，这家伙除了鱼名以外不会说别的吗？」[p][r]
 
 [_tb_end_text]
@@ -148,7 +148,7 @@
 [chara_mod  name="sable"  time="600"  cross="true"  storage="chara/3/Sable_w.png"  ]
 [tb_start_text mode=3 ]
 「恶角！恶角！」[p][r]
-萨布列连声呼喊。这就是她教的话吗？[p][r]
+莎布蕾连声呼喊。这就是她教的话吗？[p][r]
 
 [_tb_end_text]
 
@@ -161,7 +161,7 @@
 
 [chara_mod  name="niya"  time="600"  cross="true"  storage="chara/1/Niya_nom.png"  ]
 [tb_start_text mode=3 ]
-「阿达……萨布列，它想去外面……」[p][r]
+「阿达……莎布蕾，它想去外面……」[p][r]
 
 [_tb_end_text]
 

@@ -275,14 +275,14 @@
 [chara_hide  name="neko"  time="1000"  wait="true"  pos_mode="false"  ]
 [chara_show  name="sable"  time="1000"  wait="true"  storage="chara/3/Sableneko.png"  width="1024"  height="576"  top="100"  ]
 [tb_start_text mode=3 ]
-萨布列从妮娅的怀里下来。[l][r]
+莎布蕾从妮娅的怀里下来。[l][r]
 
 [_tb_end_text]
 
 [playse  volume="50"  time="1000"  buf="0"  storage="suzu.mp3"  ]
 [tb_start_text mode=3 ]
 熟悉的铃声叮铃响起。[p][r]
-「萨布列……再见了……」[p][r]
+「莎布蕾……再见了……」[p][r]
 
 [_tb_end_text]
 
@@ -320,7 +320,7 @@
 
 [chara_mod  name="niya"  time="600"  cross="true"  storage="chara/1/Niya_naki.png"  ]
 [tb_start_text mode=3 ]
-「萨布列……再见了！」[p][r]
+「莎布蕾……再见了！」[p][r]
 
 [_tb_end_text]
 
@@ -341,7 +341,7 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「再见了，三色猫，再见了！」[p][r]
+「再见了，莎布蕾，再见了！」[p][r]
 即使眼泪止不住……[p][r]
 「喵～～～～～～～～～～～～～～～」[p][r]
 猫发出了长长的叫声。[p][r]
