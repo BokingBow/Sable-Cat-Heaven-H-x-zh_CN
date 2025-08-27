@@ -180,7 +180,7 @@
 
 [tb_start_text mode=3 ]
 「我！？为什么！？」[p][r]
-「因为KEY姐，你病刚好……」[p][r]
+「因为辉姐姐，你病刚好……」[p][r]
 
 [_tb_end_text]
 
@@ -193,7 +193,7 @@
 
 [chara_mod  name="niya"  time="600"  cross="true"  storage="chara/1/Niya_fuhehe.png"  ]
 [tb_start_text mode=3 ]
-「是、是吗……那和KEY姐姐一起去……」[p][r]
+「是、是吗……那和辉姐姐姐一起去……」[p][r]
 
 [_tb_end_text]
 
@@ -342,8 +342,8 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「怎么啦，沙布雷？」[p][r]
-插话的沙布雷指向猫地藏后方的树荫。[p][r]
+「怎么啦，莎布蕾？」[p][r]
+插话的莎布蕾指向猫地藏后方的树荫。[p][r]
 「那里有什么吗？」[p][r]
 仔细一瞧，那里有一条勉强可供一人通行的兽径。[p][r]
 
@@ -359,7 +359,7 @@
 [chara_hide  name="sable"  time="1000"  wait="true"  pos_mode="true"  ]
 [tb_start_text mode=3 ]
 「啊、喂！」[p][r]
-沙布雷冲进兽径。[p][r]
+莎布蕾冲进兽径。[p][r]
 
 [_tb_end_text]
 
