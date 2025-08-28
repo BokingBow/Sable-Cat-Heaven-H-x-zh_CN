@@ -159,8 +159,8 @@
 
 [chara_mod  name="niya"  time="600"  cross="true"  storage="chara/1/Niya_fuhehe.png"  ]
 [tb_start_text mode=3 ]
-「鰤鱼是一种会出世的鱼哦」[p][r]
-[font color="0xaaaaaa"]译注：原文「出世魚」，所谓「出世」指的便是在发育的不同阶段有不同的名字，例如羔成长为羊，犊成长为牛。[l][r]
+「鰤鱼是一种会出世的鱼哦」[l][r]
+[font color="0xaaaaaa"]译注：原文「出世魚」，所谓「出世」指的便是在发育的不同阶段有不同的名字，例如羔成长为羊，犊成长为牛。[p][r]
 [resetfont]
 怎么可能听得懂啊。[p][r]
 
