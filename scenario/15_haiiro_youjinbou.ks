@@ -220,7 +220,7 @@
 [chara_mod  name="nekomiko"  time="600"  cross="true"  storage="chara/7/Nekomikonom.png"  ]
 [tb_start_text mode=3 ]
 因为那人的兴趣恶劣，我马上就看出来了」[p][r]
-「那，那萨布勒呢……不能带它回去吗？」[p][r]
+「那，那莎布蕾呢……不能带它回去吗？」[p][r]
 「……[l][r]
 一旦被猫猫温泉淋到失去人的样子，又被井井封闭起来，那就再也回不到人的世界了。来吧，动作快」[p][r]
 
