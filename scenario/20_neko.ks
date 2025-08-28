@@ -227,7 +227,7 @@
 
 [chara_hide  name="zigoku"  time="300"  wait="true"  pos_mode="true"  ]
 [tb_start_text mode=3 ]
-「达彦、妮娅。[l][r]
+「隆弘、妮娅。[l][r]
 我也很开心哦」[p][r]
 
 [_tb_end_text]
@@ -326,7 +326,7 @@
 
 [chara_mod  name="kiko"  time="600"  cross="true"  storage="chara/2/kiko_naki.png"  ]
 [tb_start_text mode=3 ]
-「你别像个小孩子一样哭啦，达彦」[p][r]
+「你别像个小孩子一样哭啦，隆弘」[p][r]
 「辉姐姐还不是在哭……」[p][r]
 「因为……很寂寞嘛……」[l][r]
 

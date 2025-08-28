@@ -169,7 +169,7 @@
 「是哦」[p][r]
 姐姐露出一如往常的笑容。[l][r]
 不过我住院的时候曾经去看她几次，所以早就知道了。[p][r]
-「达彦」[p][r]
+「隆弘」[p][r]
 
 [_tb_end_text]
 
@@ -216,7 +216,7 @@
 
 [chara_mod  name="kiko"  time="600"  cross="true"  storage="chara/2/kiko_nikoniko.png"  ]
 [tb_start_text mode=3 ]
-「真想不到当年那个小小的达彦已经这么会开了」[p][r]
+「真想不到当年那个小小的隆弘已经这么会开了」[p][r]
 「那是多久以前的事情啊？」[p][r]
 「卵子」[p][r]
 「看都看不到吧！」[p][r]
@@ -238,7 +238,7 @@
 
 [chara_mod  name="kiko"  time="600"  cross="true"  storage="chara/2/kiko_w.png"  ]
 [tb_start_text mode=3 ]
-「那真是太好了，达彦呢？」[p][r]
+「那真是太好了，隆弘呢？」[p][r]
 「我应该也会去」[p][r]
 「你顺便把妮娅也带来吧」[p][r]
 
@@ -356,7 +356,7 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="70"  time="1000"  loop="true"  storage="madeinsummer2.mp3"  ]
 [tb_start_text mode=3 ]
-「呐，阿达」[p][r]
+「呐，阿隆」[p][r]
 妮娅正窥探着神社的地板下面。[p][r]
 
 [_tb_end_text]
@@ -554,7 +554,7 @@
 
 [chara_show  name="niya"  time="1000"  wait="true"  storage="chara/1/Niya_nom.png"  width="1280"  height="720"  top="0"  ]
 [tb_start_text mode=3 ]
-「啊……阿达」[p][r]
+「啊……阿隆」[p][r]
 
 [_tb_end_text]
 
@@ -570,7 +570,7 @@
 这个城镇不是观光地，有陌生的儿童在这里倒是很少见。[p][r]
 「我不清楚……在这里，看到了」[p][r]
 「不清楚……？」[p][r]
-「话说，阿达　没有察觉到吗？」[p][r]
+「话说，阿隆　没有察觉到吗？」[p][r]
 
 [_tb_end_text]
 

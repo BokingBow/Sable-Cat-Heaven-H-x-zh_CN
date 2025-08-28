@@ -306,7 +306,7 @@
 [tb_start_text mode=3 ]
 「萨布里！！姐姐！！」[p][r]
 多亏灰的活跃，总算到达了。[p][r]
-「达彦……妮娅……」[p][r]
+「隆弘……妮娅……」[p][r]
 姐姐在哭。[p][r]
 
 [_tb_end_text]
@@ -408,7 +408,7 @@
 [chara_show  name="kiko"  time="1000"  wait="true"  storage="chara/2/kiko_odo.png"  width="1280"  height="720"  top="0"  ]
 [chara_show  name="sable"  time="1000"  wait="true"  storage="chara/3/Sable_odo.png"  width="1280"  height="720"  top="0"  ]
 [tb_start_text mode=3 ]
-「嗯，没事……阿达和妮娅来了啊……谢谢你们」[p][r]
+「嗯，没事……阿隆和妮娅来了啊……谢谢你们」[p][r]
 
 [_tb_end_text]
 
@@ -432,7 +432,7 @@
 [chara_mod  name="kiko"  time="600"  cross="true"  storage="chara/2/kiko_jitome.png"  ]
 [tb_start_text mode=3 ]
 「是吗……[l][r]
-阿达，我……」[p][r]
+阿隆，我……」[p][r]
 「姐姐！没时间发呆了，[l][r]
 一旦天亮，就再也回不到人类的世界了」[p][r]
 
@@ -457,7 +457,7 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="70"  time="1000"  loop="true"  storage="madeinsummer2.mp3"  ]
 [tb_start_text mode=3 ]
-「阿达」[p][r]
+「阿隆」[p][r]
 「怎么了，姐姐？」[p][r]
 「莎布蕾，要怎么办？」[p][r]
 
@@ -466,7 +466,7 @@
 [tb_start_text mode=3 ]
 「………我不会把莎布蕾留下来，」[l][r]
 「我不会把莎布蕾留下来」[p][r]
-达彦「………」[p][r]
+隆弘「………」[p][r]
 我明白。[l][r]
 
 [_tb_end_text]
@@ -475,12 +475,12 @@
 我大概不能带它一起去。[l][r]
 我必须和莎布蕾分别才能前进。[l][r]
 「但是，我不能把它留下来」[p][r]
-达彦「我知道，可是」[p][r]
+隆弘「我知道，可是」[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-达彦「莎布蕾」[p][r]
+隆弘「莎布蕾」[p][r]
 
 [_tb_end_text]
 
@@ -508,7 +508,7 @@
 
 [tb_start_text mode=3 ]
 地狱和灰多次提到这个名字。[l][r]
-「达彦、妮娅、辉子，地狱擅自行动，[p][r]
+「隆弘、妮娅、辉子，地狱擅自行动，[p][r]
 给你添了麻烦」[p][r]
 她没有报上名字，却理所当然地知道我们的名字。[p][r]
 
@@ -551,7 +551,7 @@
 [tb_start_text mode=3 ]
 只是再一下下，再短暂的一段时间，对吧？」[p][r]
 「这……」[p][r]
-「达彦」[p][r]
+「隆弘」[p][r]
 「赛布拉」[p][r]
 
 [_tb_end_text]
@@ -677,7 +677,7 @@
 
 [chara_mod  name="sable"  time="600"  cross="true"  storage="chara/3/Sable_gao.png"  ]
 [tb_start_text mode=3 ]
-「阿达！　用热水浇地狱！」[p][r]
+「阿隆！　用热水浇地狱！」[p][r]
 莎布蕾如此说道。[l][r]
 
 [_tb_end_text]

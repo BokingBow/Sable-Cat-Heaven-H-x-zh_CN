@@ -76,7 +76,7 @@
 
 [chara_mod  name="niya"  time="600"  cross="true"  storage="chara/1/Niya_oko.png"  ]
 [tb_start_text mode=3 ]
-「阿达，走吧」[p][r]
+「阿隆，走吧」[p][r]
 
 [_tb_end_text]
 

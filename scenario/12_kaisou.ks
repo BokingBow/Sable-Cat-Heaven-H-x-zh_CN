@@ -12,7 +12,7 @@
 [playbgm  volume="70"  time="1000"  loop="true"  storage="SATUGAI_sic_6OKE.mp3"  ]
 [chara_show  name="jogasima"  time="1000"  wait="true"  storage="chara/6/Jogssima_nom.png"  width="1280"  height="720"  top="20"  ]
 [tb_start_text mode=3 ]
-「嗨，达彦」[p][r]
+「嗨，隆弘」[p][r]
 「啊，你好」[p][r]
 
 [_tb_end_text]
@@ -24,7 +24,7 @@
 
 [chara_show  name="other"  time="1000"  wait="true"  storage="chara/11/motomiya.png"  width="1280"  height="720"  top="0"  left="0"  ]
 [tb_start_text mode=3 ]
-「达彦，你好」[p][r]
+「隆弘，你好」[p][r]
 乐团成员元宫也在一起。[p][r]
 「辉子在吗？」[p][r]
 
@@ -175,7 +175,7 @@
 [playbgm  volume="70"  time="1000"  loop="true"  storage="madeinsummer1.mp3"  ]
 [chara_show  name="niya"  time="1000"  wait="true"  storage="chara/1/Niya_nom.png"  width="1280"  height="720"  top="0"  ]
 [tb_start_text mode=3 ]
-「……阿达」[p][r]
+「……阿隆」[p][r]
 
 [_tb_end_text]
 
@@ -199,7 +199,7 @@
 [tb_start_text mode=3 ]
 「不去」[p][r]
 「这样啊……我姐姐说要一起穿浴衣」[p][r]
-「……那阿达去穿？」[p][r]
+「……那阿隆去穿？」[p][r]
 「不，我……大概要帮忙摆摊」[p][r]
 
 [_tb_end_text]

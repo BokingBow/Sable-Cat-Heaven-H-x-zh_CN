@@ -103,7 +103,7 @@
 [chara_show  name="niya"  time="1000"  wait="true"  storage="chara/1/Niya_nom.png"  width="1280"  height="720"  top="0"  ]
 [playbgm  volume="70"  time="1000"  loop="true"  storage="madeinsummer1.mp3"  ]
 [tb_start_text mode=3 ]
-「我说，阿达……有看见莎布蕾吗？」[p][r]
+「我说，阿隆……有看见莎布蕾吗？」[p][r]
 「呜哇！妮娅，你怎么突然问这个？」[p][r]
 我在客厅做午餐的炒菜时，妮娅突然问我。[l][r]
 话说这里又不是你家……[p][r]
@@ -180,7 +180,7 @@
 
 [chara_mod  name="niya"  time="600"  cross="true"  storage="chara/1/Niya_moji.png"  ]
 [tb_start_text mode=3 ]
-「阿达，陪我一起去找吧……」[p][r]
+「阿隆，陪我一起去找吧……」[p][r]
 
 [_tb_end_text]
 
@@ -235,7 +235,7 @@
 
 [tb_start_text mode=3 ]
 「我不喜欢[l][r]
-一个人独处，而且阿达你走这么快」[p][r]
+一个人独处，而且阿隆你走这么快」[p][r]
 明明是夏天，却让人觉得好热。[p][r]
 「姐姐明天就要出院回家了[l][r]
 
@@ -268,7 +268,7 @@
 [tb_start_text mode=3 ]
 「从明天开始……」[p][r]
 「嗯？」[p][r]
-「我不跟阿达，跟辉姐姐一起了，更好」[p][r]
+「我不跟阿隆，跟辉姐姐一起了，更好」[p][r]
 这家伙……[l][r]
 
 [_tb_end_text]
@@ -293,7 +293,7 @@
 [chara_show  name="niya"  time="1000"  wait="true"  storage="chara/1/Niya_nom.png"  width="1280"  height="720"  top="0"  ]
 [chara_show  name="jogasima"  time="1000"  wait="true"  storage="chara/6/Jogssima_nom.png"  width="1280"  height="720"  top="20"  ]
 [tb_start_text mode=3 ]
-「哦，达彦」[p][r]
+「哦，隆弘」[p][r]
 
 [_tb_end_text]
 

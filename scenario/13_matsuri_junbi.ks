@@ -31,7 +31,7 @@
 
 [chara_show  name="sable"  time="1000"  wait="true"  storage="chara/3/Sable_w.png"  width="1280"  height="720"  top="0"  ]
 [tb_start_text mode=3 ]
-「达彦，吃饭了——」[p][r]
+「隆弘，吃饭了——」[p][r]
 「我可没说要帮我添饭啊。妮娅呢？」[p][r]
 经常待在妮娅家的莎布蕾出来迎接我。[p][r]
 「睡着了——」[p][r]
@@ -40,7 +40,7 @@
 
 [tb_start_text mode=3 ]
 「这样啊」[p][r]
-「达彦」[p][r]
+「隆弘」[p][r]
 「嗯？」[p][r]
 
 [_tb_end_text]
@@ -77,7 +77,7 @@
 「嗯……」[p][r]
 莎布蕾眯起眼睛。[p][r]
 「喂，要摸到什么时候？」[p][r]
-「达彦」[p][r]
+「隆弘」[p][r]
 
 [_tb_end_text]
 
@@ -90,7 +90,7 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「达彦好温暖，[l][r]
+「隆弘好温暖，[l][r]
 像太阳公公……」[p][r]
 莎布蕾的声音越来越小。[l][r]
 
@@ -110,7 +110,7 @@
 [bg  time="1000"  method="crossfade"  storage="BG/ribingu.png"  ]
 [chara_show  name="kiko"  time="1000"  wait="true"  storage="chara/2/kiko_odo.png"  width="1280"  height="720"  top="0"  ]
 [tb_start_text mode=3 ]
-「达彦，你在做什么？」[p][r]
+「隆弘，你在做什么？」[p][r]
 姐姐走出房间，对我抛出这个疑问。[p][r]
 「不是我，是这家伙」[p][r]
 

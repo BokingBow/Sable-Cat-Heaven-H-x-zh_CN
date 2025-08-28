@@ -100,7 +100,7 @@
 [tb_start_text mode=3 ]
 「对了，6点要举办的出院庆祝会」[p][r]
 我望向时钟，已经傍晚5点了。[p][r]
-「达彦，你去邀请妮娅过来」[p][r]
+「隆弘，你去邀请妮娅过来」[p][r]
 「她会来吗……」[p][r]
 
 [_tb_end_text]
@@ -138,7 +138,7 @@
 
 [chara_mod  name="niya"  time="600"  cross="true"  storage="chara/1/Niya_nom.png"  ]
 [tb_start_text mode=3 ]
-对奶奶、辉姐姐、莎布蕾和阿达，我都一清二楚……」[p][r]
+对奶奶、辉姐姐、莎布蕾和阿隆，我都一清二楚……」[p][r]
 妮娅说完后，准备关上房门。[p][r]
 
 [_tb_end_text]
@@ -172,7 +172,7 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [chara_show  name="jogasima"  time="1000"  wait="true"  storage="chara/6/Jogssima_nom.png"  width="1280"  height="720"  top="20"  ]
 [tb_start_text mode=3 ]
-「哦　达彦」[p][r]
+「哦　隆弘」[p][r]
 
 [_tb_end_text]
 
@@ -250,7 +250,7 @@
 [chara_show  name="kiko"  time="1000"  wait="true"  storage="chara/2/kiko_nom.png"  width="1280"  height="720"  top="0"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=3 ]
-「达彦，你来得可真晚」[p][r]
+「隆弘，你来得可真晚」[p][r]
 「啊——妮娅说她不来」[p][r]
 
 [_tb_end_text]
@@ -264,7 +264,7 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「达彦，我问你……」[p][r]
+「隆弘，我问你……」[p][r]
 「嗯？」[p][r]
 在集会所的前方，摆着一套简易的乐器组合。[l][r]
 城岛先生用鼓棒敲打着。[l][r]

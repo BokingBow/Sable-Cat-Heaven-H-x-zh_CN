@@ -31,7 +31,7 @@
 [bg  time="1000"  method="crossfade"  storage="BG/ribingu.png"  ]
 [chara_show  name="kiko"  time="1000"  wait="true"  storage="chara/2/kiko_nom.png"  width="1280"  height="720"  top="0"  ]
 [tb_start_text mode=3 ]
-「阿达你要去哪？」[p][r]
+「阿隆你要去哪？」[p][r]
 出院检查结束的姐姐向我搭话。[p][r]
 「外面」[p][r]
 「什么啦」[p][r]

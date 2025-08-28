@@ -32,7 +32,7 @@
 
 [chara_mod  name="kiko"  time="600"  cross="true"  storage="chara/2/kiko_nikoniko.png"  ]
 [tb_start_text mode=3 ]
-「对了，达彦，你昨天说的洗浴中心要盖的地方就在这附近」[p][r]
+「对了，隆弘，你昨天说的洗浴中心要盖的地方就在这附近」[p][r]
 
 [_tb_end_text]
 

@@ -226,7 +226,7 @@
 「是吗？」[p][r]
 「什么？」[p][r]
 猫耳巫女用仿佛看透一切的眼神看着我。[p][r]
-「达彦的记忆也有在我脑中」[p][r]
+「隆弘的记忆也有在我脑中」[p][r]
 这种说法真奇妙。[p][r]
 
 [_tb_end_text]
@@ -455,7 +455,7 @@
 [bg  time="1000"  method="crossfade"  storage="BG/ribingu.png"  ]
 [mask_off  time="500"  effect="fadeOut"  ]
 [tb_start_text mode=3 ]
-「阿达，欢迎回家～给我冰淇淋～」[p][r]
+「阿隆，欢迎回家～给我冰淇淋～」[p][r]
 「啊，我忘记了」[p][r]
 
 [_tb_end_text]

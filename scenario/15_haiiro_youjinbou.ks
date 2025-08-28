@@ -86,7 +86,7 @@
 
 [tb_start_text mode=3 ]
 所以，必须有谁去」[p][r]
-「为什么……为什么非得……非得阿达去不可呢？」[p][r]
+「为什么……为什么非得……非得阿隆去不可呢？」[p][r]
 必须有人去。[l][r]
 必须有人扛起这件事。[l][r]
 
@@ -134,7 +134,7 @@
 [chara_show  name="nekomiko"  time="1000"  wait="true"  storage="chara/7/Nekomikonom.png"  width="1024"  height="576"  top="100"  ]
 [playbgm  volume="70"  time="1000"  loop="true"  storage="madeinsummer2.mp3"  ]
 [tb_start_text mode=3 ]
-「达彦」[p][r]
+「隆弘」[p][r]
 一瞬间，我还以为是莎布蕾，不过却是之前那个猫耳巫女。[p][r]
 「你好……」[p][r]
 

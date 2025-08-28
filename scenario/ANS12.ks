@@ -22,7 +22,7 @@
 
 [tb_start_text mode=3 ]
 「嗯，妮娅，谢谢。[l][r]
-……还有高尾达彦！」[p][r]
+……还有高尾隆弘！」[p][r]
 [_tb_end_text]
 
 [chara_mod  name="takahiro"  time="600"  cross="true"  storage="chara/4/Takahiroodo.png"  ]
@@ -53,11 +53,11 @@
 [tb_start_text mode=3 ]
 「什么什么，你们两个在聊什么！？[l][r]
 什么时候通过气了！？太狡猾了！」[p][r]
-我和高尾达彦再度互瞪，又笑了。[p][r]
+我和高尾隆弘再度互瞪，又笑了。[p][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「这么说来，高尾达彦，你为什么把辉子的手机沉到鱼缸里？」[p][r]
+「这么说来，高尾隆弘，你为什么把辉子的手机沉到鱼缸里？」[p][r]
 「确实啊！」[p][r]
 [_tb_end_text]
 
@@ -86,7 +86,7 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-我实在无法理解高尾达彦的想法。他是外星人吗？[l][r]
+我实在无法理解高尾隆弘的想法。他是外星人吗？[l][r]
 不过，我至少明白他不想再感到寂寞的心情。[p][r]
 「妮娅……我会再来玩的」[p][r]
 [_tb_end_text]

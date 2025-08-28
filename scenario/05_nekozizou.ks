@@ -57,7 +57,7 @@
 [chara_show  name="sable"  time="1000"  wait="true"  storage="chara/3/Sable_w.png"  width="1280"  height="720"  top="0"  ]
 [tb_start_text mode=3 ]
 喀嚓。[p][r]
-「辉姐姐、阿达，早安」[p][r]
+「辉姐姐、阿隆，早安」[p][r]
 「柴鱼！！！」[p][r]
 
 [_tb_end_text]
@@ -78,7 +78,7 @@
 
 [chara_mod  name="kiko"  time="600"  cross="true"  storage="chara/2/kiko_nikoniko.png"  ]
 [tb_start_text mode=3 ]
-「达彦你还太嫩了」[p][r]
+「隆弘你还太嫩了」[p][r]
 姐姐突然这么说。[p][r]
 
 [_tb_end_text]
@@ -161,7 +161,7 @@
 
 [chara_mod  name="niya"  time="600"  cross="true"  storage="chara/1/Niya_nom.png"  ]
 [tb_start_text mode=3 ]
-「阿达……莎布蕾，它想去外面……」[p][r]
+「阿隆……莎布蕾，它想去外面……」[p][r]
 
 [_tb_end_text]
 
@@ -174,7 +174,7 @@
 
 [chara_mod  name="niya"  time="600"  cross="true"  storage="chara/1/Niya_utsumuki.png"  ]
 [tb_start_text mode=3 ]
-「嗯……可是我会怕……阿达也一起去」[p][r]
+「嗯……可是我会怕……阿隆也一起去」[p][r]
 
 [_tb_end_text]
 
@@ -365,7 +365,7 @@
 
 [chara_mod  name="niya"  time="600"  cross="true"  storage="chara/1/Niya_moji.png"  ]
 [tb_start_text mode=3 ]
-「阿、阿达！快追上去」[p][r]
+「阿、阿隆！快追上去」[p][r]
 
 [_tb_end_text]
 

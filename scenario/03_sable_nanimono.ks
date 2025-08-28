@@ -88,7 +88,7 @@
 
 [chara_show  name="other"  time="1000"  wait="true"  storage="chara/11/omawari.png"  width="1280"  height="720"  top="0"  ]
 [tb_start_text mode=3 ]
-「哦，阿达和妮娅啊，怎么啦？」[p][r]
+「哦，阿隆和妮娅啊，怎么啦？」[p][r]
 是熟识的警察叔叔。[l][r]
 由于镇上孩子很少，我们总是受到警察关照。[p][r]
 「是这孩子」[p][r]
@@ -125,7 +125,7 @@
 
 [chara_mod  name="niya"  time="600"  cross="true"  storage="chara/1/Niya_oko.png"  ]
 [tb_start_text mode=3 ]
-「阿达，不可以那么粗鲁哦」[p][r]
+「阿隆，不可以那么粗鲁哦」[p][r]
 「可是，那个耳朵……」[p][r]
 「真的是角色扮演吗……？[l][r]
 
@@ -286,7 +286,7 @@
 
 [chara_mod  name="niya"  time="600"  cross="true"  storage="chara/1/Niya_nom.png"  ]
 [tb_start_text mode=3 ]
-「呐，阿达……难道这孩子」[p][r]
+「呐，阿隆……难道这孩子」[p][r]
 
 [_tb_end_text]
 
@@ -403,7 +403,7 @@
 
 [tb_start_text mode=3 ]
 「离远点」[p][r]
-「阿达！」[p][r]
+「阿隆！」[p][r]
 
 [_tb_end_text]
 
@@ -417,7 +417,7 @@
 [chara_hide_all  time="1000"  wait="true"  ]
 [bg  time="1000"  method="crossfade"  storage="str/Sabledaki.png"  ]
 [tb_start_text mode=3 ]
-「阿达阿达！」[p][r]
+「阿隆阿隆！」[p][r]
 然后它坐到我的膝盖上，试图硬将身体缩成圆球。[p][r]
 「喂，太勉强了吧！」[p][r]
 「喵～喵～」[p][r]
@@ -434,7 +434,7 @@
 
 [tb_start_text mode=3 ]
 「喂」[p][r]
-「阿达，好狡猾……」[p][r]
+「阿隆，好狡猾……」[p][r]
 「你认真的吗？」[p][r]
 「我也想被躺大腿」[p][r]
 
