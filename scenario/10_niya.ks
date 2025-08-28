@@ -49,7 +49,7 @@
 
 [chara_show  name="sable"  time="1000"  wait="true"  storage="chara/3/Sable_nom.png"  width="1280"  height="720"  top="0"  ]
 [tb_start_text mode=3 ]
-「隆平！」[p][r]
+「隆弘！」[p][r]
 「哟，莎布蕾」[p][r]
 不知道从什么时候开始，莎布蕾会说一些简单的词汇了。[p][r]
 
@@ -105,7 +105,7 @@
 [tb_start_text mode=3 ]
 「……不想吃冰淇淋吗？我帮你买哦」[p][r]
 「不用了，我没有食欲」[p][r]
-虽然妮娅笨拙地挤出这句话，却全被敷衍过去了。[p][r]
+虽然妮娅是笨拙地挤出话来，却全把我敷衍过去了。[p][r]
 「这样啊……」[p][r]
 
 [_tb_end_text]
@@ -151,15 +151,15 @@
 [tb_start_text mode=3 ]
 「名字」[p][r]
 「嗯？」[p][r]
-「我只能呼唤你的名字……」[p][r]
+「我却只能呼唤她的名字……」[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 「这样啊……」[p][r]
-「奶奶去世的时候，我只能叫着她的名字……」[p][r]
+「奶奶去世的时候　我却只能一遍遍喊着她的名字……」[p][r]
 妮娅挤出了微弱的声音。[p][r]
-「……她至少还愿意叫我的名字……」[p][r]
+「……但至少，她听到了我的呼唤……」[p][r]
 
 [_tb_end_text]
 
@@ -181,7 +181,7 @@
 [chara_show  name="sable"  time="1000"  wait="true"  storage="chara/3/Sable_nom.png"  width="1280"  height="720"  top="0"  ]
 [tb_start_text mode=3 ]
 
-「隆史～」[p][r]
+「隆弘～」[p][r]
 「嗯？」[p][r]
 我去客厅的时候，莎布蕾向我搭话。[p][r]
 
@@ -189,7 +189,7 @@
 
 [chara_mod  name="sable"  time="600"  cross="true"  storage="chara/3/Sable_kanashimi.png"  ]
 [tb_start_text mode=3 ]
-「妮娅好像怪怪的」[p][r]
+「妮娅　怪怪的」[p][r]
 「是啊……」[p][r]
 我曾经听说，猫似乎无法理解悲伤之类的情感。[p][r]
 
@@ -197,20 +197,20 @@
 
 [chara_mod  name="sable"  time="600"  cross="true"  storage="chara/3/Sable_gao.png"  ]
 [tb_start_text mode=3 ]
-「因为怪怪的，所以要去看妮娅！」[p][r]
+「因为怪怪的　要去看！」[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 说完，莎布蕾就蹦蹦跳跳地跑向妮娅。[l][r]
 据说，猫会在人消沉时凑到身边，并不是出于安慰，而是出于对不同往常的同居人的好奇心。[l][r]
-虽然是自己的一厢情愿，但我还是觉得，莎布蕾待在悲伤的外侧　让我感到很欣慰。[l][r]
+虽然是自己的一厢情愿，但我还是觉得，莎布蕾立于悲伤之外的场景　让我感到很欣慰。[l][r]
 猫总是，自由的，轻巧的[l][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-总觉得这样很适合我。[p][r]
+总觉得这样很合适。[p][r]
 这样就好。[p][r]
 
 [_tb_end_text]
