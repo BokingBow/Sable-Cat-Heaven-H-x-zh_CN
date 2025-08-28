@@ -16,13 +16,13 @@
 [tb_start_text mode=3 ]
 我一边处理搞不好会变成人生最后暑假作业的课题，一边自言自语。[l][r]
 起死回生。[l][r]
-咖啡猫萨赫洛……大概死了。[l][r]
-猫耳萨赫洛又是什么？[l][r]
+叫莎布蕾的猫……大概，死了。[l][r]
+这个长着猫耳的人形莎布蕾又是什么？[l][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-再说，它真的是萨赫洛吗？[l][r]
+再说，它真的是莎布蕾吗？[l][r]
 虽然我下意识认定就是那样。[l][r]
 死去的人起死回生，猫变成人。[l][r]
 那种事怎么可能发生？[l][r]
@@ -33,7 +33,7 @@
 然而……[p][r]
 「好寂寞哦……」[p][r]
 如果那种事真的存在，该有多好。[l][r]
-我这么想，于是想相信那只猫耳是萨赫洛。[l][r]
+我这么想，于是想相信那个长猫耳的是莎布蕾。[l][r]
 
 [_tb_end_text]
 
@@ -53,14 +53,14 @@
 [tb_start_text mode=3 ]
 「你要去哪？」[p][r]
 姐姐在客厅看电视。[p][r]
-「我买冰回来」[p][r]
+「我去买冰淇淋回来」[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「要去松申吗？」[p][r]
-松申是松田商店的简称。[l][r]
-如果这一带有卖零食或冰淇淋，就只有松申。[p][r]
+「要去松商吗？」[p][r]
+松商是松田商店的简称。[l][r]
+如果这一带有卖零食或冰淇淋，就只有松商有。[p][r]
 「啊啊」[p][r]
 
 [_tb_end_text]
@@ -115,7 +115,7 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-穿着巫女服的白色猫耳。[p][r]
+穿着巫女服的人长着白色猫耳。[p][r]
 
 [_tb_end_text]
 
@@ -132,12 +132,12 @@
 「最近过得好吗？」[p][r]
 白色猫耳晃了晃。[p][r]
 「还算可以」[p][r]
-这个人，也是真正的猫耳吗……[l][r]
+这个人，也有真正的猫耳吗……[l][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-虽然不知道她的真伪究竟怎么判定就是了。[p][r]
+虽然尚且不知道究竟怎么判定真伪就是了。[p][r]
 「还算可以吗？」[p][r]
 她手拿扫帚。[l][r]
 好像在打扫神社院内。[p][r]
@@ -148,7 +148,7 @@
 「……那个，请问你是谁？」[p][r]
 在这座城镇出生17年。[l][r]
 从来没见过也没听说过这种人。[p][r]
-「你是谁……？」[p][r]
+「是谁……？」[p][r]
 
 [_tb_end_text]
 
@@ -178,46 +178,46 @@
 [tb_start_text mode=3 ]
 「……小玉」[p][r]
 「小玉？」[p][r]
-「小偷」[p][r]
+「小野」[p][r]
 「……？」[p][r]
 
 [_tb_end_text]
 
 [chara_mod  name="nekomiko"  time="600"  cross="true"  storage="chara/7/Nekomikonom.png"  ]
 [tb_start_text mode=3 ]
-「小白、小虎、斯诺、卡罗琳、小渐……咪」[p][r]
+「小白、小虎、小雪、卡罗琳、三味线……还有小咪」[p][r]
 「是猫的名字？」[p][r]
-「是『我』」[p][r]
+「是我的」[p][r]
 「……？」[p][r]
 
 [_tb_end_text]
 
 [chara_mod  name="nekomiko"  time="600"  cross="true"  storage="chara/7/Nekomikow.png"  ]
 [tb_start_text mode=3 ]
-「记忆中被这么称呼的就是我」[p][r]
+「记忆中我就是被这么称呼的」[p][r]
 「这些不都是宠物的名字吗？」[p][r]
-卡罗琳、小渐，这些名字我都有印象。[l][r]
-吉田先生以前养过的卡罗琳，听说是一只附有血统书，价值不菲的猫。[l][r]
+卡罗琳、三味线，这些名字我都有印象。[l][r]
+吉田先生以前养过的卡罗琳，听说是一只血统高贵，价值不菲的猫。[l][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-小渐是小学时住在我家后山的猫，有一只眼睛失明。[p][r]
+三味线是小学时住在我家后山的猫，有一只眼睛失明。[p][r]
 「小咪是……」[p][r]
-小咪是城岛同学养的猫……[l][r]
+小咪是城岛先生养的猫……[l][r]
 常在这座神社玩耍……[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「它已经死了」[p][r]
+「都已经死了」[p][r]
 
 [_tb_end_text]
 
 [chara_mod  name="nekomiko"  time="600"  cross="true"  storage="chara/7/Nekomikonom.png"  ]
 [tb_start_text mode=3 ]
 「我知道」[p][r]
-「死去的人……不会说话，也见不到面」[p][r]
+「死去的生物……不会说话，也见不到面」[p][r]
 
 [_tb_end_text]
 
@@ -281,7 +281,7 @@
 [bg  time="1000"  method="crossfade"  storage="BG/jinjahare.png"  ]
 [tb_start_text mode=3 ]
 「你在说什……」[p][r]
-我睁开眼睛，猫耳已经消失。[p][r]
+我睁开眼睛，猫耳巫女已经消失。[p][r]
 「……到底怎么了啊……」[p][r]
 我呆站在原地。[l][r]
 
@@ -311,7 +311,7 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-回头一看，是超级洗浴中心压杉小姐。[p][r]
+回头一看，是超级洗浴中心的压杉小姐。[p][r]
 「没什么……」[p][r]
 
 [_tb_end_text]
@@ -388,7 +388,7 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-我想起了它前几天带我去看的老井。[l][r]
+我想起了莎布蕾前几天带我去看的古井。[l][r]
 是从这里来的。[l][r]
 莎布蕾是这么说的。[l][r]
 因为肾功能衰竭而陷入末期，不断抽搐，无论是谁来看都是奄奄一息的那只猫——[l][r]
@@ -396,17 +396,18 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-它借用人形从井中走了出来。[p][r]
+它以人形从井中走了出来。[p][r]
 「这一切都在人们不知道的地方……[l][r]
 只有猫知道」[p][r]
-「猫的味噌汤是这么残酷的吗……」[p][r]
+「把猫做成味噌汤，这么残酷的吗……」[p][r]
 
 [_tb_end_text]
 
 [chara_mod  name="atsusugi"  time="600"  cross="true"  storage="chara/4/Atsusugi_w.png"  ]
 [tb_start_text mode=3 ]
-「没错没错，高汤很入味，很好吃呢。才不是味噌汤咧！」[p][r]
-
+「没错没错，很入味，很好吃　才不是在说味噌汤咧！」[l][r]
+[font color="0xaaaaaa"]译注：原文「猫のみぞ知るって」与「猫の味噌汁って」发音相似。[p][r]
+[resetfont]
 [_tb_end_text]
 
 [quake  time="300"  count="3"  hmax="10"  wait="true"  ]
@@ -427,7 +428,7 @@
 
 [chara_hide_all  time="1000"  wait="true"  ]
 [tb_start_text mode=3 ]
-我避开他的目光，走下楼梯。[l][r]
+我避开她的目光，走下楼梯。[l][r]
 神。[l][r]
 猫的传说。[l][r]
 古井。[l][r]
@@ -439,7 +440,7 @@
 那个世界。[l][r]
 在嘈杂的蝉鸣中，我感受到了从未体验过的寒意。[l][r]
 仿佛熟悉的这个小镇，和未知的某个地方连结了起来。[l][r]
-不是任何地方，不是任何地方……[l][r]
+不明时间，不明地点……[l][r]
 
 [_tb_end_text]
 
@@ -454,7 +455,7 @@
 [bg  time="1000"  method="crossfade"  storage="BG/ribingu.png"  ]
 [mask_off  time="500"  effect="fadeOut"  ]
 [tb_start_text mode=3 ]
-「阿达，欢迎回家～给我冰～」[p][r]
+「阿达，欢迎回家～给我冰淇淋～」[p][r]
 「啊，我忘记了」[p][r]
 
 [_tb_end_text]
@@ -472,7 +473,7 @@
 
 [chara_mod  name="kiko"  time="600"  cross="true"  storage="chara/2/kiko_akire.png"  ]
 [tb_start_text mode=3 ]
-「哈哈，说得对……」[p][r]
+「哈哈，还真是……」[p][r]
 
 [_tb_end_text]
 
