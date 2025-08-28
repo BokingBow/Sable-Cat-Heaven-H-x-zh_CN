@@ -9,7 +9,7 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="70"  time="1000"  loop="true"  storage="madeinsummer1.mp3"  ]
 [tb_start_text mode=3 ]
-「猫觉得自己是大猫，代表认为自己是小猫吗？」[p][r]
+「如果说猫觉得人类是大的猫，会不会认为自己是小的人呢？」[p][r]
 「有点不一样吧？」[p][r]
 
 [_tb_end_text]
@@ -57,8 +57,8 @@
 [chara_show  name="sable"  time="1000"  wait="true"  storage="chara/3/Sable_w.png"  width="1280"  height="720"  top="0"  ]
 [tb_start_text mode=3 ]
 喀嚓。[p][r]
-「奇～～～～姐、阿达，早安」[p][r]
-「真那啊！！！」[p][r]
+「辉姐姐、阿达，早安」[p][r]
+「柴鱼！！！」[p][r]
 
 [_tb_end_text]
 
@@ -86,8 +86,8 @@
 [tb_start_text mode=3 ]
 「什么意思？」[p][r]
 「明明就住在这里，却完全不了解这个家」[p][r]
-说完，她和妮娅对上视线，坏心地笑了笑。[l][r]
-我之前就隐约察觉到了，但只有我们两个知道的入侵路线有好多。[p][r]
+说完，她和妮娅对上视线，坏心眼地笑了笑。[l][r]
+我之前就隐约察觉到了，只有她们两个知道的入侵路线有好多。[p][r]
 
 [_tb_end_text]
 
@@ -98,28 +98,28 @@
 
 [chara_mod  name="kiko"  time="600"  cross="true"  storage="chara/2/kiko_jitome.png"  ]
 [tb_start_text mode=3 ]
-「像你这样的无能，要被逐出小队了！」[p][r]
+「像你这样无能的人，离开我们的队伍吧！」[p][r]
 「那是什么？」[p][r]
-「最近开始流行的逐出系，你没听说过？」[p][r]
+「最近开始流行的退队流，没听说过吗？」[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「逐出系？要逐出什么？」[p][r]
+「退队流？谁要退队？」[p][r]
 「主角」[p][r]
-「放逐了主角的话，故事不就结束了吗？」[p][r]
+「主角退队了的话，故事不就结束了吗？」[p][r]
 
 [_tb_end_text]
 
 [chara_mod  name="kiko"  time="600"  cross="true"  storage="chara/2/kiko_w.png"  ]
 [tb_start_text mode=3 ]
-「就是说啊」[p][r]
+「本来就是这样」[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 「这样就行了吗？」[p][r]
-「从这里开始还有一段故事哦」[p][r]
+「是从这里开始的故事哦」[p][r]
 「我听不太懂」[p][r]
 「流行就是这种东西哦」[p][r]
 
@@ -127,7 +127,7 @@
 
 [chara_mod  name="sable"  time="600"  cross="true"  storage="chara/3/Sable_gao.png"  ]
 [tb_start_text mode=3 ]
-「恶角！」[p][r]
+「锅盖鱼！」[p][r]
 莎布蕾用鱼名插进对话中。[p][r]
 「欸，这家伙除了鱼名以外不会说别的吗？」[p][r]
 
@@ -147,15 +147,15 @@
 
 [chara_mod  name="sable"  time="600"  cross="true"  storage="chara/3/Sable_w.png"  ]
 [tb_start_text mode=3 ]
-「恶角！恶角！」[p][r]
-莎布蕾连声呼喊。这就是她教的话吗？[p][r]
+「反派千金！反派千金！」[p][r]
+莎布蕾连声喊道。这就是她教的话吗？[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 「反派千金……？」[p][r]
 「反派千金，今后绝对也是个热门题材哦」[p][r]
-我有听没懂。[p][r]
+听也听不懂。[p][r]
 
 [_tb_end_text]
 
@@ -180,20 +180,20 @@
 
 [tb_start_text mode=3 ]
 「我！？为什么！？」[p][r]
-「因为辉姐姐，你病刚好……」[p][r]
+「因为辉姐姐，病刚好……」[p][r]
 
 [_tb_end_text]
 
 [chara_mod  name="kiko"  time="600"  cross="true"  storage="chara/2/kiko_nom.png"  ]
 [tb_start_text mode=3 ]
-「散步一下没关系啦」[p][r]
+「散一下步没关系啦」[p][r]
 「她这么说」[p][r]
 
 [_tb_end_text]
 
 [chara_mod  name="niya"  time="600"  cross="true"  storage="chara/1/Niya_fuhehe.png"  ]
 [tb_start_text mode=3 ]
-「是、是吗……那和辉姐姐姐一起去……」[p][r]
+「是、是吗……那和辉姐姐一起去……」[p][r]
 
 [_tb_end_text]
 
@@ -214,8 +214,8 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-我在冷气房里悠闲地度过。[l][r]
-决定放弃这种夏天正确打开方式的我，决定顶着大太阳去散步。[p][r]
+在空调冷气开足的房间里懒散度日。[l][r]
+我却毅然放弃这种夏天的正确打开方式，决定顶着大太阳去散步。[p][r]
 
 [_tb_end_text]
 
@@ -244,7 +244,7 @@
 [chara_mod  name="kiko"  time="600"  cross="true"  storage="chara/2/kiko_nikoniko.png"  ]
 [tb_start_text mode=3 ]
 「当然热啊」[p][r]
-「这里的哪一点好啊？」[p][r]
+「所以说这里到底好在哪啊？」[p][r]
 「跟闷死人的病房相比好太多了。[l][r]
 是晒得到太阳的好地方」[p][r]
 
@@ -258,7 +258,7 @@
 [quake  time="300"  count="3"  hmax="10"  wait="true"  ]
 [chara_mod  name="sable"  time="600"  cross="true"  storage="chara/3/Sable_w.png"  ]
 [tb_start_text mode=3 ]
-「金枪鱼！」[p][r]
+「旗鱼金枪鱼！」[p][r]
 正在讨论时，莎布蕾突然喊着鱼的名字跑了出去。[p][r]
 「啊，喂！」[p][r]
 
@@ -278,8 +278,8 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=3 ]
 前方是偏离通往山上的道路的林间小道。[l][r]
-来到这里，四周都没有住家。[l][r]
-是居民平时也不会涉足的地方。[p][r]
+来到这里，看来四周都没有住家。[l][r]
+应该是居民平时也不会涉足的地方。[p][r]
 
 [_tb_end_text]
 
@@ -331,13 +331,13 @@
 [tb_start_text mode=3 ]
 虽然没有人知道它的由来……」[p][r]
 「还有这种事？」[p][r]
-「其实知道由来的人意外地少哦」[p][r]
+「意外吗，其实弄不清来历的东西，反倒占大多数呢。」[p][r]
 
 [_tb_end_text]
 
 [chara_mod  name="sable"  time="600"  cross="true"  storage="chara/3/Sable_gao.png"  ]
 [tb_start_text mode=3 ]
-「沙鮻！」[p][r]
+「沙丁鱼！」[p][r]
 
 [_tb_end_text]
 
@@ -351,7 +351,7 @@
 
 [quake  time="300"  count="3"  hmax="10"  wait="true"  ]
 [tb_start_text mode=3 ]
-「沙鮻！」[p][r]
+「青花鱼！」[p][r]
 
 [_tb_end_text]
 
@@ -377,7 +377,7 @@
 [chara_mod  name="kiko"  time="600"  cross="true"  storage="chara/2/kiko_akire.png"  ]
 [tb_start_text mode=3 ]
 「我们是女生哦？」[p][r]
-「反对……歧视！」[p][r]
+「性别歧视……我反对！」[p][r]
 
 [_tb_end_text]
 
@@ -393,15 +393,17 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-是隔壁的千佳？还是友美？[l][r]
-会想走这种路的人只有小鬼吧。[l][r]
-树枝打到身体很痛。[p][r]
+是那什么《龙猫》？还是《猫龙》来着？[l][r]
+[font color="0xaaaaaa"]译注：原文「隣のトトロ」指的便是「となりのトトロ」，大陆正式译名《龙猫》。「トトリ」只是记不清的表现法，故意译。[l][r]
+[resetfont]
+会想走这种路的只有小鬼吧。[l][r]
+痛，树枝打到身体了。[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 
-今天早上在家吹凉风的时候，我明明确信能过一个完美的夏天，为什么会变成这样？[l][r]
+今天早上在家吹凉风的时候，我明明确信能过一个完美的夏天，为什么会变成这样啊。[l][r]
 
 [_tb_end_text]
 

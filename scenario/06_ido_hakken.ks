@@ -7,7 +7,7 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=3 ]
 「……这里是？」[p][r]
-在兽道上走了几分钟后，我来到一处稍微开阔的场所。[l][r]
+在兽径上走了几分钟后，我来到一处稍微开阔的场所。[l][r]
 
 [_tb_end_text]
 
