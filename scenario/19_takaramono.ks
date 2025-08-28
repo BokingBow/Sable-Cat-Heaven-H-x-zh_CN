@@ -337,7 +337,7 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-而且我只是遵从神猫大人的吩咐，把这个小不点——萨布雷带过来而已」[p][r]
+而且我只是遵从神猫大人的吩咐，把这个小不点——莎布蕾带过来而已」[p][r]
 「神猫大人吗……那种事情已经无所谓了」[p][r]
 
 [_tb_end_text]
@@ -401,7 +401,7 @@
 
 [bg  time="1000"  method="crossfade"  storage="BG/zihoku_yashiki.png"  ]
 [tb_start_text mode=3 ]
-「姐姐！萨布雷！你们没事吧！」[p][r]
+「姐姐！莎布蕾！你们没事吧！」[p][r]
 
 [_tb_end_text]
 
@@ -459,7 +459,7 @@
 [tb_start_text mode=3 ]
 「阿达」[p][r]
 「怎么了，姐姐？」[p][r]
-「萨布雷，要怎么办？」[p][r]
+「莎布蕾，要怎么办？」[p][r]
 
 [_tb_end_text]
 

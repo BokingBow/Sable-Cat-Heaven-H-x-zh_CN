@@ -11,8 +11,8 @@
 [playbgm  volume="70"  time="1000"  loop="true"  storage="madeinsummer3.mp3"  ]
 [chara_show  name="sable"  time="1000"  wait="true"  storage="chara/3/Sable_w.png"  width="1280"  height="720"  top="0"  ]
 [tb_start_text mode=3 ]
-「忍耐熊，去啊——」[p][r]
-不知为何，我们今天也在陪萨布雷散步。[p][r]
+「东云逆刃——斩！」[p][r]
+不知为何，我们今天也在陪莎布蕾散步。[p][r]
 
 [_tb_end_text]
 
@@ -25,7 +25,7 @@
 
 [chara_hide  name="niya"  time="1000"  wait="true"  pos_mode="true"  ]
 [tb_start_text mode=3 ]
-妮娅追赶奔跑的萨布雷，却因为平时运动不足而追不上。[l][r]
+妮娅追赶奔跑的莎布蕾，却因为平时运动不足而追不上。[l][r]
 不过这对家里蹲来说，或许是个不错的机会。[p][r]
 
 [_tb_end_text]
@@ -54,7 +54,7 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-虽然我们这些带着猫耳的人或许没资格这么说……[p][r]
+虽然我们这边带着个长猫耳的或许没资格这么说……[p][r]
 
 [_tb_end_text]
 
@@ -115,9 +115,9 @@
 
 [tb_start_text mode=3 ]
 妮娅也忍不住叫出声来。[p][r]
-「不妙！而且还是两位这样的美少女」[p][r]
+「不妙！而且还有两位这样的美少女」[p][r]
 「诶？」[p][r]
-那个不妙的女人指着妮娅和奇思姐。[p][r]
+那个不妙的女人指着妮娅和辉姐姐。[p][r]
 
 [_tb_end_text]
 
@@ -130,9 +130,9 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「有这样的漂亮招牌女孩的话，生意一定很好！」[p][r]
+「有这样漂亮的看板娘的话，生意一定会很好的！」[p][r]
 「诶」[p][r]
-「招牌……不，作为岩盘娘，作为当地偶像也可以哦！」[p][r]
+「看板……不，作为岩盘娘，作为当地偶像也可以哦！」[p][r]
 这种名字的偶像要是流行起来的话谁受得了。[p][r]
 
 [_tb_end_text]
@@ -140,7 +140,7 @@
 [tb_start_text mode=3 ]
 「岩盘浴30次送一张握手券！」[p][r]
 会死的。[p][r]
-「呜～～赢了！赢了！赢了！」[p][r]
+「好～～会赢的！会赢的！会赢的！」[p][r]
 好可怕。[p][r]
 
 [_tb_end_text]
@@ -168,17 +168,19 @@
 
 [chara_mod  name="atsusugi"  time="600"  cross="true"  storage="chara/4/Atsusugi_w.png"  ]
 [tb_start_text mode=3 ]
-「汤之花传播股份有限公司　东日本支部统筹总经理压杉来海　哟」[p][r]
+「汤之花文化传媒股份有限公司　东日本支部总经理　压杉来海　哟」[p][r]
 她迅速地递给我一张名片。[p][r]
 「啊，谢谢　这么郑重」[p][r]
-热过头　来海。[l][r]
+压杉　来海。[l][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-名字也热得厉害。[p][r]
-「你的身体很好啊！[l][r]
-超级洗浴中心也在招聘男员工哦！」[p][r]
+名字也热得厉害。[l][r]
+[font color="0xaaaaaa"]译注：原文「あつすぎ」就是压杉，但也可译为“热过头”。[p][r]
+[resetfont]
+「体魄不错啊！[l][r]
+洗浴中心也在招聘男员工哦！」[p][r]
 「不好意思　我已经有内定了……」[p][r]
 
 [_tb_end_text]
@@ -198,7 +200,7 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「你傻吗？」[p][r]
+「傻的吗？」[p][r]
 哪有人这样的啊。[p][r]
 
 [_tb_end_text]
@@ -214,14 +216,14 @@
 尽管对方不正经，但对初次见面的大人说这种话还是太失礼了。[p][r]
 「是呢……我是个傻瓜呢……」[p][r]
 「诶……？」[p][r]
-「部长经常骂我呢　说我就只有行动力是个长处的傻瓜……」[p][r]
+「部长经常骂我呢　说我是除了行动力别无长处的傻瓜……」[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 别突然情绪低落啊……[p][r]
 「不，那个，每个人都有自己的优点和缺点……」[p][r]
-「是呢……是呢少年！！[l][r]
+「是呢……是呢这位少年！！[l][r]
 
 [_tb_end_text]
 
@@ -232,7 +234,7 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-我的肩膀被他紧紧抓住。[p][r]
+我的肩膀被她紧紧抓住。[p][r]
 
 [_tb_end_text]
 
@@ -255,7 +257,7 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=3 ]
 「刚才那么激动，真是抱歉」[p][r]
-压杉先生将写着「汤花交流中心」的毛巾递过来，如此说道。[l][r]
+压杉小姐将写着「汤之花交流中心」的毛巾递过来，如此说道。[l][r]
 这肯定是用来当作见面礼送人的粗品吧。[p][r]
 「啊，不会……」[p][r]
 
@@ -276,14 +278,14 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-妮娅刚才还在因为压杉先生的气势而躲在我身后，但更靠后处的萨布雷却走出来了。[p][r]
+妮娅刚才还在因为压杉小姐的气势而躲在我身后，但更靠后处的莎布蕾却走出来了。[p][r]
 
 [_tb_end_text]
 
 [chara_mod  name="atsusugi"  time="600"  cross="true"  storage="chara/4/Atsusugi_odo.png"  ]
 [tb_start_text mode=3 ]
 「哎呀……是猫耳美女」[p][r]
-压杉先生好奇地望着萨布雷。[l][r]
+压杉小姐好奇地望着莎布蕾。[l][r]
 也是，这确实稀奇……[p][r]
 
 [_tb_end_text]
@@ -292,7 +294,7 @@
 [tb_start_text mode=3 ]
 「……真货？」[p][r]
 什么真货？[p][r]
-「没有啦，那是角色扮演。角色扮演，角色扮演」[p][r]
+「没有啦，那是角色扮演。角色扮演啦角色扮演」[p][r]
 我连忙插话。[p][r]
 
 [_tb_end_text]
@@ -300,14 +302,14 @@
 [tb_start_text mode=3 ]
 「可是它在动耶」[p][r]
 「这是高科技。最新型的猫耳」[p][r]
-「最新……网络猫耳？」[p][r]
-「对啊，网络哦」[p][r]
+「最新……赛博猫耳？」[p][r]
+「对啊，赛博哦」[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「奇美拉科技・猫耳？」[p][r]
-「融合一堆猫耳也不会增加攻击次数啦」[p][r]
+「奇美拉・过载・猫耳？」[p][r]
+「就算融合再多也不会增加猫耳的攻击次数啦」[p][r]
 「五连击！」[p][r]
 「五连击！」[p][r]
 
@@ -335,7 +337,7 @@
 [chara_mod  name="atsusugi"  time="600"  cross="true"  storage="chara/4/Atsusugi_nom.png"  ]
 [tb_start_text mode=3 ]
 「唔——高科技真是厉害啊……」[p][r]
-我硬是说服了姐姐。[p][r]
+我硬是说服了这位小姐。[p][r]
 
 [_tb_end_text]
 
@@ -388,15 +390,15 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-压杉先生点点头。[p][r]
+压杉小姐点点头。[p][r]
 「你有没有想到什么呢？神明……」[p][r]
-他说着，一边望向小贝雷。[l][r]
-这个人，究竟为了确认什么事情而来到这座镇上？[l][r]
+他说着，一边望向莎布蕾。[l][r]
+这个人，究竟是为了确认什么事情而来到这座镇上的？[l][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-小贝雷真正的猫耳微微地抖动着。[p][r]
+莎布蕾真正的猫耳微微地抖动着。[p][r]
 
 [_tb_end_text]
 

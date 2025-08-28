@@ -311,7 +311,7 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-回头一看，是超级洗浴中心压杉先生。[p][r]
+回头一看，是超级洗浴中心压杉小姐。[p][r]
 「没什么……」[p][r]
 
 [_tb_end_text]
@@ -324,7 +324,7 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-压杉先生为什么在这里？」[p][r]
+压杉小姐为什么在这里？」[p][r]
 「继续现场调查啊」[p][r]
 「神明……」[p][r]
 「嗯？」[p][r]
@@ -339,7 +339,7 @@
 [chara_mod  name="atsusugi"  time="600"  cross="true"  storage="chara/4/Atsusugi_nom.png"  ]
 [tb_start_text mode=3 ]
 「……嗯哼」[p][r]
-压杉先生露出坏笑。[p][r]
+压杉小姐露出坏笑。[p][r]
 「怎么了……」[p][r]
 
 [_tb_end_text]
@@ -411,14 +411,14 @@
 
 [quake  time="300"  count="3"  hmax="10"  wait="true"  ]
 [tb_start_text mode=3 ]
-压杉先生用力拍了我一下。[p][r]
+压杉小姐用力拍了我一下。[p][r]
 「总觉得你很配合呢」[p][r]
 「是吗？可能吧？」[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-压杉先生说完，用中指使劲推了推墨镜。[p][r]
+压杉小姐说完，用中指使劲推了推墨镜。[p][r]
 「那我先走了」[p][r]
 「啊啊，对了，如果有想到什么　再告诉我哦」[p][r]
 「哦」[p][r]

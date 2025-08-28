@@ -120,7 +120,7 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=3 ]
 猫地藏。[l][r]
-压杉先生曾经说过。[l][r]
+压杉小姐曾经说过。[l][r]
 也许不是为人而设的。[l][r]
 那么会是谁呢？[l][r]
 

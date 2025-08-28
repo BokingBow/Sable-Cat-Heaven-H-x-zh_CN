@@ -70,7 +70,7 @@
 [chara_show  name="atsusugi"  time="1000"  wait="true"  storage="chara/4/Atsusugi_w.png"  width="1280"  height="720"  top="0"  ]
 [tb_start_text mode=3 ]
 「嗨，少年！」[p][r]
-「啊，压杉先生」[p][r]
+「啊，压杉小姐」[p][r]
 
 [_tb_end_text]
 
@@ -104,7 +104,7 @@
 [chara_mod  name="atsusugi"  time="600"  cross="true"  storage="chara/4/Atsusugi_odo.png"  ]
 [tb_start_text mode=3 ]
 「哎呀，是吗？」[p][r]
-压杉先生兴致勃勃地回答。[l][r]
+压杉小姐兴致勃勃地回答。[l][r]
 是那个什么『压杉，你真行』的意思吗……[l][r]
 
 [_tb_end_text]
@@ -143,7 +143,7 @@
 [chara_mod  name="atsusugi"  time="600"  cross="true"  storage="chara/4/Atsusugi_nirami.png"  ]
 [tb_start_text mode=3 ]
 「哎呀，是吗？」[p][r]
-压杉先生手抵下巴，像侦探一样思考起来。[l][r]
+压杉小姐手抵下巴，像侦探一样思考起来。[l][r]
 话说，他是做什么工作的来着？[p][r]
 
 [_tb_end_text]
@@ -163,7 +163,7 @@
 
 我就这么带他过去了。[p][r]
 「神主和镇长怎么都不告诉我呢？」[p][r]
-压杉先生疑惑地说道。[p][r]
+压杉小姐疑惑地说道。[p][r]
 
 [_tb_end_text]
 
@@ -198,7 +198,7 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-压杉先生像打开某个开关一样，呢喃着奇怪的话。[p][r]
+压杉小姐像打开某个开关一样，呢喃着奇怪的话。[p][r]
 「如果不是为了人类……？」[p][r]
 「猫……猫被供奉，为了猫而……」[p][r]
 蝉鸣声唧唧地响着。[l][r]
@@ -225,7 +225,7 @@
 [tb_start_text mode=3 ]
 「徘徊于人类和猫之间」[p][r]
 「什么？」[p][r]
-回小镇的路上压杉先生说道。[p][r]
+回小镇的路上压杉小姐说道。[p][r]
 「这个小镇的传说里经常出现的」[p][r]
 
 [_tb_end_text]
@@ -256,7 +256,7 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-我不太能理解压杉先生的话。[p][r]
+我不太能理解压杉小姐的话。[p][r]
 「猫就算死了　也不伤心　也不寂寞」[p][r]
 是这样的吗。[p][r]
 「但是，我们会感到悲伤哦」[p][r]
@@ -271,7 +271,7 @@
 
 [chara_hide_all  time="1000"  wait="true"  ]
 [tb_start_text mode=3 ]
-说完，压杉先生说「你往这边走」，然后就消失在转角处。[l][r]
+说完，压杉小姐说「你往这边走」，然后就消失在转角处。[l][r]
 人和猫之间。[l][r]
 ……比如，长了猫耳的小孩呢？[l][r]
 
