@@ -12,7 +12,7 @@
 [playbgm  volume="70"  time="1000"  loop="true"  storage="natsunoosimai.mp3"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=3 ]
-「真是的，我讨厌美丽的东西」[p][r]
+「真是的，我最讨厌美丽的东西了」[p][r]
 她抚摸着我。[l][r]
 
 [_tb_end_text]
@@ -21,7 +21,7 @@
 我听不懂人类在说什么。[l][r]
 唯能理解拥抱我的温度。[l][r]
 人类好温暖。[p][r]
-「你真好」[p][r]
+「你能这样真好」[p][r]
 
 [_tb_end_text]
 
@@ -29,7 +29,7 @@
 她抚摸我失明的左眼周围。[l][r]
 我不记得为什么会失明。[l][r]
 记得也没有意义。[p][r]
-「留着你也不会有什么损失」[p][r]
+「有你在，什么都不会受到损害」[p][r]
 
 [_tb_end_text]
 
