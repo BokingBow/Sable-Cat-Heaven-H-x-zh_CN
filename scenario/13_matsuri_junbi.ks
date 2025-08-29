@@ -14,7 +14,7 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-我因为干力气活，被拉来帮忙了。[l][r]
+我因为要干力气活，被拉来帮忙了。[l][r]
 这场祭典结束的话，暑假也结束了。[l][r]
 可能是人生最后的暑假……[p][r]
 
@@ -31,8 +31,10 @@
 
 [chara_show  name="sable"  time="1000"  wait="true"  storage="chara/3/Sable_w.png"  width="1280"  height="720"  top="0"  ]
 [tb_start_text mode=3 ]
-「隆弘，吃饭了——」[p][r]
-「我可没说要帮我添饭啊。妮娅呢？」[p][r]
+「隆弘，欢迎添饭——」[p][r]
+「把添饭和回家弄混了吧。妮娅呢？」[l][r]
+[font color="0xaaaaaa"]译注：原文「おかあり」，把「おかわり」和「おかえり」弄混了。[p][r]
+[resetfont]
 经常待在妮娅家的莎布蕾出来迎接我。[p][r]
 「睡着了——」[p][r]
 
@@ -47,7 +49,7 @@
 
 [chara_mod  name="sable"  time="600"  cross="true"  storage="chara/3/Sable_gao.png"  ]
 [tb_start_text mode=3 ]
-「你坐在那」[p][r]
+「你　坐下」[p][r]
 
 [_tb_end_text]
 
@@ -55,7 +57,7 @@
 「哎，怎么了？」[p][r]
 「坐下」[p][r]
 莎布蕾露出了不容分说的表情。[p][r]
-「真嚣张……」[p][r]
+「真任性……」[p][r]
 
 [_tb_end_text]
 
@@ -67,16 +69,16 @@
 
 [bg  time="1000"  method="crossfade"  storage="str/Sabledaki.png"  ]
 [tb_start_text mode=3 ]
-然后，莎布蕾一言不发，从我的膝盖上爬起身，蜷成一团。[p][r]
+然后，莎布蕾一言不发，趴到我的膝盖上，蜷成一团。[p][r]
 「干嘛啊……」[p][r]
-外面蝉声唧唧。[p][r]
+外面传来滋儿哇滋儿哇的蝉鸣。[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 「嗯……」[p][r]
 莎布蕾眯起眼睛。[p][r]
-「喂，要摸到什么时候？」[p][r]
+「喂，这样　还要多久？」[p][r]
 「隆弘」[p][r]
 
 [_tb_end_text]
@@ -90,7 +92,7 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「隆弘好温暖，[l][r]
+「隆弘　好温暖[l][r]
 像太阳公公……」[p][r]
 莎布蕾的声音越来越小。[l][r]
 
@@ -103,7 +105,7 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-恼人的夏天将我们包围住。[p][r]
+恼人的夏天将我们包围。[p][r]
 
 [_tb_end_text]
 
@@ -183,8 +185,8 @@
 [tb_start_text mode=3 ]
 「……嗯，有心情的话」[p][r]
 「来，莎布蕾，浴衣哦」[p][r]
-「莎布蕾？」[p][r]
-「不是鱼」[p][r]
+「鰆鱼？」[p][r]
+「不是鱼哦」[p][r]
 
 [_tb_end_text]
 
@@ -229,7 +231,7 @@
 [chara_hide_all  time="1000"  wait="true"  ]
 [tb_start_text mode=3 ]
 我喝着人家给我当慰劳品的宝矿力喘口气。[l][r]
-都是粗重劳动，身体和头脑都累坏了。[l][r]
+明明都是体力活，身体和头脑都累坏了。[l][r]
 今晚应该可以睡得很熟。[l][r]
 
 [_tb_end_text]
@@ -249,7 +251,7 @@
 [tb_start_text mode=3 ]
 「她打算在这里待多久喵？」[p][r]
 喵？[l][r]
-我听到了愚蠢的对话。[l][r]
+我听到了傻乎乎的对话。[l][r]
 声音正好是从我的正后方传来。[p][r]
 
 [_tb_end_text]
@@ -294,10 +296,10 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「你灵魂的状态，是被拉到这边了喵」[p][r]
+「你的灵魂，好像处于要被拉到这边的状况了喵」[p][r]
 「他知道新来的在哪里喵？」[p][r]
 「……新来的？」[p][r]
-「来了吧喵！跟我们一样像人类的猫！」[p][r]
+「来你这边了吧喵！是跟我们一样长得像人类的猫！」[p][r]
 
 [_tb_end_text]
 
