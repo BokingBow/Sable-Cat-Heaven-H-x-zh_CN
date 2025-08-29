@@ -8,7 +8,7 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=3 ]
 「怎、怎、怎么了吗？」[p][r]
-我慌忙地走回原地，就听见妮娅家里传来了声音。[p][r]
+我匆匆回去时，听见妮娅家里传来了声音。[p][r]
 
 [_tb_end_text]
 
@@ -26,13 +26,13 @@
 [playbgm  volume="70"  time="1000"  loop="true"  storage="jigokuosimai.mp3"  ]
 [tb_start_text mode=3 ]
 「我是……地狱。[l][r]
-猫地狱」[p][r]
+猫的地狱」[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 是个非常怪异的人物。[l][r]
-他穿着像是在时代剧中会看到的衣服，有着一头白色的长发。[l][r]
+穿着像是在时代剧中会看到的衣服，有着一头白色的长发。[l][r]
 头上理所当然似地长着猫耳。[l][r]
 而且……[p][r]
 
@@ -40,7 +40,7 @@
 
 [tb_start_text mode=3 ]
 「姐姐……？」[p][r]
-他的长相和姐姐很相似。这是我对他的第一印象。[l][r]
+长得和姐姐很像。这是我对她的第一印象。[l][r]
 可是，为什么……[p][r]
 
 [_tb_end_text]
@@ -68,17 +68,17 @@
 
 [chara_mod  name="zigoku"  time="600"  cross="true"  storage="chara/9/Zigokunom.png"  ]
 [tb_start_text mode=3 ]
-他竖起了全身的毛，露出恶魔般的笑容。[l][r]
+她竖起了全身的毛，露出恶魔般的笑容。[l][r]
 蓝色的眼睛闪烁着光芒。[l][r]
-这不是这个世界的人。[l][r]
+她不是这个世界的人。[l][r]
 我的直觉这么告诉自己。[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 「喂、喂！」[p][r]
-我回过头去。[p][r]
-「怎么？小子，你也要阻挠我吗？」[p][r]
+回头了。[p][r]
+「怎么？小子，你也要妨碍我吗？」[p][r]
 地狱把手放在刺在腰间的刀上。[l][r]
 
 [_tb_end_text]
@@ -87,7 +87,7 @@
 ……刀！？[l][r]
 我感觉全身血液倒流。[l][r]
 平时不会意识到的恐惧窜遍全身，冒出大量冷汗。[p][r]
-「为，为什么要带走奶油面包？」[p][r]
+「为，为什么要带走莎布蕾？」[p][r]
 
 [_tb_end_text]
 
@@ -100,23 +100,23 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「你听不懂吗？」[p][r]
+「你不懂吗？」[p][r]
 「你，你突然跑来带走它……不觉得很不讲理吗……？」[p][r]
 
 [_tb_end_text]
 
 [chara_mod  name="zigoku"  time="600"  cross="true"  storage="chara/9/Zigokuw.png"  ]
 [tb_start_text mode=3 ]
-「哼哈哈……真是可喜可贺的小子」[p][r]
+「库哈哈……真是个天真到可爱的家伙啊」[p][r]
 「什、什么……」[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 「你们自以为在保护的那个东西，不正是不讲理的象征吗？」[p][r]
-他指着奶油面包。[p][r]
-「不讲理……」[p][r]
-「死掉的猫用人的身体再次出现……哼哼，不合乎道理」[p][r]
+她指着莎布蕾。[p][r]
+「没道理的……」[p][r]
+「死掉的猫用人的身体再次出现……哼哼，这才没有道理可言」[p][r]
 
 [_tb_end_text]
 
@@ -130,9 +130,9 @@
 
 [tb_start_text mode=3 ]
 果然莎布蕾死了吗？[l][r]
-我原本以为早已理解了[p][r]
+我原本以为自己早已理解了[p][r]
 「那……那你才是……怎么回事……[l][r]
-穿着时代错误的服装　拿着刀……」[p][r]
+穿着别的时代的异服　还拿着刀……」[p][r]
 
 [_tb_end_text]
 
@@ -146,15 +146,15 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-我也会死……[p][r]
+这样的我……[p][r]
 
 [_tb_end_text]
 
 [chara_mod  name="zigoku"  time="600"  cross="true"  storage="chara/9/Zigokuw.png"  ]
 [tb_start_text mode=3 ]
-「哈哈哈！别那么害怕。[l][r]
-这是有道理的。这也是神猫大人的使者」[p][r]
-「神猫大人……？」[p][r]
+「库哈哈！别那么害怕。[l][r]
+此事自有其道理。毕竟她也是神猫大人的使者」[p][r]
+「神猫、大人……？」[p][r]
 
 [_tb_end_text]
 
@@ -169,7 +169,7 @@
 [stopbgm  time="3000"  fadeout="true"  ]
 [chara_show  name="kiko"  time="1000"  wait="true"  storage="chara/2/kiko_nom.png"  width="1280"  height="720"  top="0"  ]
 [tb_start_text mode=3 ]
-「你从刚才开始是怎么啦～？」[p][r]
+「你们从刚才开始是怎么啦～？」[p][r]
 
 [_tb_end_text]
 
@@ -188,34 +188,34 @@
 
 [chara_mod  name="zigoku"  time="600"  cross="true"  storage="chara/9/Zigokumazime.png"  ]
 [tb_start_text mode=3 ]
-「猫耳……？」[p][r]
+「【狐狸】……？」[p][r]
 地狱露出惊讶的表情看着姐姐。[p][r]
 
 [_tb_end_text]
 
 [chara_mod  name="kiko"  time="600"  cross="true"  storage="chara/2/kiko_w.png"  ]
 [tb_start_text mode=3 ]
-「哎呀，这个人也有猫耳啊　是说长相跟我很像？」[p][r]
+「哎呀，这个人也有猫耳啊　而且长相跟我很像？」[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 姐姐并没有被震慑住。[p][r]
-「为什么……你会在这里……？」[p][r]
+「为什么……【狐狸】会在这里……？」[p][r]
 地狱用一副不敢相信的表情凝视着姐姐。[p][r]
 
 [_tb_end_text]
 
 [chara_mod  name="kiko"  time="600"  cross="true"  storage="chara/2/kiko_akire.png"  ]
 [tb_start_text mode=3 ]
-「猫耳是什么？」[p][r]
+「【狐狸】是说什么？」[p][r]
 
 [_tb_end_text]
 
 [chara_mod  name="zigoku"  time="600"  cross="true"  storage="chara/9/Zigokuw.png"  ]
 [playbgm  volume="70"  time="1000"  loop="true"  storage="stugai_sic_py16OKE.mp3"  ]
 [tb_start_text mode=3 ]
-「呼呼……呵哈哈」[p][r]
+「库库……库哈哈」[p][r]
 地狱大笑了起来。[p][r]
 「怎么了？这个人是演员吗？」[p][r]
 姐姐依旧显得很悠哉。[p][r]
@@ -224,16 +224,16 @@
 
 [tb_start_text mode=3 ]
 「没想到还有这样的因缘际会……」[p][r]
-地狱边说边迅速动了起来。[l][r]
-正确地说，我是之后才意识到他动了。[l][r]
-接着，他用两手分别抱起莎布蕾和姐姐。[p][r]
+地狱边说边迅速动作起来。[l][r]
+正确地说，我是之后才意识到她有动作。[l][r]
+接着，她用两手分别抱起莎布蕾和姐姐。[p][r]
 
 [_tb_end_text]
 
 [chara_mod  name="sable"  time="600"  cross="true"  storage="chara/3/Sable_odo.png"  ]
 [chara_mod  name="kiko"  time="600"  cross="true"  storage="chara/2/kiko_odo.png"  ]
 [tb_start_text mode=3 ]
-「那女孩是我的宝物！我收下咯！」[p][r]
+「我收下咯！这个女孩，是我的宝物！」[p][r]
 「你、你在说什么啊！」[p][r]
 我完全无法理解。[l][r]
 地狱身后的窗户打开了。[p][r]
@@ -251,23 +251,23 @@
 
 [chara_mod  name="zigoku"  time="600"  cross="true"  storage="chara/9/Zigokunom.png"  ]
 [tb_start_text mode=3 ]
-「我决定要把她当作我的宝贝！走了！」[p][r]
+「我决定要把她收作我的宝贝！走了！」[p][r]
 「地狱大人～您这样做真的好吗喵？」[p][r]
 「会不会惹神猫大人生气喵？」[p][r]
-「没关系。只要在被发现之前，让她泡进猫猫温泉，把她变成猫就行了！」[p][r]
+「没关系。只要在被发现之前，让她泡进猫泉，把她变成猫就行了！」[p][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-猫猫温泉？[l][r]
-虽然不太明白什么意思，总之我明白他们要带走姐姐和狗饼。[p][r]
-「姐姐！狗饼！」[p][r]
+猫泉？[l][r]
+虽然不太明白什么意思，总之我明白他们要带走姐姐和莎布蕾。[p][r]
+「姐姐！莎布蕾！」[p][r]
 
 [_tb_end_text]
 
 [chara_mod  name="sable"  time="600"  cross="true"  storage="chara/3/Sable_kanashimi.png"  ]
 [tb_start_text mode=3 ]
-「贵文～妮娅～」[p][r]
+「隆弘～妮娅～」[p][r]
 
 [_tb_end_text]
 
@@ -285,7 +285,7 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=3 ]
 「呜哇！」[p][r]
-他就像忍者一样，扔出了烟雾弹。[p][r]
+她就像忍者一样，扔出了烟雾弹。[p][r]
 「咳！咳！」[p][r]
 「呜！呜！」[p][r]
 
@@ -296,7 +296,7 @@
 我和妮娅夸张地咳嗽。[l][r]
 不久烟雾散去后。[p][r]
 「不在了……」[p][r]
-「……狗饼、贵基姐……？」[p][r]
+「……莎布蕾、辉姐姐……？」[p][r]
 
 [_tb_end_text]
 
