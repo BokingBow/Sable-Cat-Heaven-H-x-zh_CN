@@ -188,7 +188,7 @@
 
 [chara_mod  name="zigoku"  time="600"  cross="true"  storage="chara/9/Zigokumazime.png"  ]
 [tb_start_text mode=3 ]
-「【狐狸】……？」[p][r]
+「兴津……？」[p][r]
 地狱露出惊讶的表情看着姐姐。[p][r]
 
 [_tb_end_text]
@@ -201,14 +201,14 @@
 
 [tb_start_text mode=3 ]
 姐姐并没有被震慑住。[p][r]
-「为什么……【狐狸】会在这里……？」[p][r]
+「为什么……兴津会在这里……？」[p][r]
 地狱用一副不敢相信的表情凝视着姐姐。[p][r]
 
 [_tb_end_text]
 
 [chara_mod  name="kiko"  time="600"  cross="true"  storage="chara/2/kiko_akire.png"  ]
 [tb_start_text mode=3 ]
-「【狐狸】是说什么？」[p][r]
+「兴津是说什么？」[p][r]
 
 [_tb_end_text]
 

@@ -7,7 +7,7 @@
 [bg  time="0"  method="crossfade"  storage="BG/nekonokuni.png"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=3 ]
-发出「啪嗒」的一声　烟雾在空中弥漫。[l][r]
+发出啪嗒的一声　烟雾在空中弥漫。[l][r]
 就像小孩子看的卡通动画一样。[l][r]
 
 [_tb_end_text]
@@ -15,7 +15,7 @@
 [chara_show  name="zigoku"  time="1000"  wait="true"  storage="chara/9/zigokuneko.png"  width="1024"  height="576"  top="100"  ]
 [tb_start_text mode=3 ]
 等烟雾散去后，压在我身上的地狱已经不见了　取而代之的是一只白猫。[l][r]
-而在姐姐面前的，不是像人那样的小西，而是熟悉的那只猫狗乐园的莎布蕾。[l][r]
+而在姐姐面前的莎布蕾，不再是像人那样的姿态，而是变成了熟悉的那只猫。[l][r]
 ……。[p][r]
 
 [_tb_end_text]
@@ -27,7 +27,7 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-在我身上的小西变成一只猫，用可怕的表情威吓着。[p][r]
+在我身上的地狱变成一只猫，用可怕的表情威吓着。[p][r]
 
 [_tb_end_text]
 
@@ -107,15 +107,15 @@
 [tb_start_text mode=3 ]
 好寂寞。[l][r]
 好寂寞，好寂寞，好寂寞。[l][r]
-我无法忍受和你分开。[l][r]
+和你分开，实在是受不了。[l][r]
 我们一直在一起，直到今天。[l][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-我无法想象没有柴的生活。[l][r]
+我无法想象没有莎布蕾的生活。[l][r]
 我不喜欢。[l][r]
-我不想离开。[l][r]
+我不想分开。[l][r]
 我充满了这样像小孩子一样的任性想法。[p][r]
 
 [_tb_end_text]
@@ -138,7 +138,7 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-我把抱起的柴交给妮娅。[p][r]
+我把抱起的莎布蕾交给妮娅。[p][r]
 
 [_tb_end_text]
 
@@ -174,7 +174,7 @@
 「咯咯……地狱……真是可笑啊……」[p][r]
 遍体鳞伤的灰从后面走过来。[p][r]
 「灰……谢谢你」[p][r]
-「没什么，要谢的话，向裘儿道谢就行了」[p][r]
+「没什么，要谢的话，向猫薄荷道谢就行了」[p][r]
 
 [_tb_end_text]
 
@@ -188,7 +188,7 @@
 [chara_mod  name="haiiro"  time="600"  cross="true"  storage="chara/10/haiiro_odo.png"  ]
 [tb_start_text mode=3 ]
 「神，神，神猫大人！？[l][r]
-这，这一定不是，因为我被鱼肉冻钓到了……！」[p][r]
+这，这一定不是，因为我被猫薄荷钓到了……！」[p][r]
 
 [_tb_end_text]
 
@@ -234,7 +234,7 @@
 
 [chara_show  name="niya"  time="1000"  wait="true"  storage="chara/1/Niya_w.png"  width="1280"  height="720"  top="0"  ]
 [tb_start_text mode=3 ]
-「鱼肉冻，供奉猫地藏就没问题了吧？」[p][r]
+「猫薄荷，供奉在猫地藏就没问题了吧？」[p][r]
 
 [_tb_end_text]
 
@@ -252,7 +252,7 @@
 [tb_start_text mode=3 ]
 吾等也喜欢汝等人类吧……」[p][r]
 或许是因为沾染在它身上的执念。[l][r]
-即使如此，它和猫的人之间还是有真正的时间。[p][r]
+即使如此，猫与人之间仍存在着真实的时光。[p][r]
 「灰……」[p][r]
 
 [_tb_end_text]
@@ -266,7 +266,7 @@
 [chara_hide  name="haiiro"  time="500"  wait="true"  pos_mode="true"  ]
 [chara_show  name="neko"  time="1000"  wait="true"  storage="chara/8/shinbyou.png"  width="1280"  height="720"  top="0"  ]
 [tb_start_text mode=3 ]
-「来，黎明近了」[p][r]
+「来，黎明将至了」[p][r]
 神猫这么说。[p][r]
 「那么……」[p][r]
 
@@ -333,7 +333,7 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-其实，我好想和你永远在一起」[p][r]
+其实　我好想和　永远在一起」[p][r]
 姐姐也道出了孩童般的寂寞。[l][r]
 即使无法保证，即使再也见不到面。[l][r]
 离别还是会到来。[p][r]
